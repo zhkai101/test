@@ -1,2074 +1,2074 @@
 #EXTM3U
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视",CCTV1
+#EXTINF:-1 group-titleName="央视" ,CCTV1
 http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV3
+#EXTINF:-1 group-titleName="央视"  ,CCTV3
 http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV4
+#EXTINF:-1 group-titleName="央视"  ,CCTV4
 http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV5
+#EXTINF:-1 group-titleName="央视"  ,CCTV5
 http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV8
+#EXTINF:-1 group-titleName="央视"  ,CCTV8
 http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV10
+#EXTINF:-1 group-titleName="央视"  ,CCTV10
 http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV发现之旅
+#EXTINF:-1 group-titleName="央视"  ,CCTV发现之旅
 http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV2HD
+#EXTINF:-1 group-titleName="央视"  ,CCTV2HD
 http://hls-ott-zhibo.wasu.tv/live/196/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV13
+#EXTINF:-1 group-titleName="央视"  ,CCTV13
 http://hls-ott-zhibo.wasu.tv/live/189/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV13
+#EXTINF:-1 group-titleName="央视"  ,CCTV13
 http://hls-ott-zhibo.wasu.tv/live/197/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV5体育+
+#EXTINF:-1 group-titleName="央视"  ,CCTV5体育+
 http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-7 HD
+#EXTINF:-1 group-titleName="央视"  ,CCTV-7 HD
 http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-11 HD
+#EXTINF:-1 group-titleName="央视"  ,CCTV-11 HD
 http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV5(移动线路)
+#EXTINF:-1 group-titleName="央视"  ,CCTV5(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225904/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV1
+#EXTINF:-1 group-titleName="央视"  ,CCTV1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV2
+#EXTINF:-1 group-titleName="央视"  ,CCTV2
 http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV3
+#EXTINF:-1 group-titleName="央视"  ,CCTV3
 http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV3
+#EXTINF:-1 group-titleName="央视"  ,CCTV3
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV4
+#EXTINF:-1 group-titleName="央视"  ,CCTV4
 http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV5
+#EXTINF:-1 group-titleName="央视"  ,CCTV5
 http://183.207.248.71:80/cntv/live1/CCTV5/hdcctv05plus
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV6
+#EXTINF:-1 group-titleName="央视"  ,CCTV6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV7
+#EXTINF:-1 group-titleName="央视"  ,CCTV7
 http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV8
+#EXTINF:-1 group-titleName="央视"  ,CCTV8
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV9
+#EXTINF:-1 group-titleName="央视"  ,CCTV9
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV10
+#EXTINF:-1 group-titleName="央视"  ,CCTV10
 http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV13
+#EXTINF:-1 group-titleName="央视"  ,CCTV13
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV14
+#EXTINF:-1 group-titleName="央视"  ,CCTV14
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-1
+#EXTINF:-1 group-titleName="央视"  ,CCTV-1
 http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-2
+#EXTINF:-1 group-titleName="央视"  ,CCTV-2
 http://223.110.241.139:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-3
+#EXTINF:-1 group-titleName="央视"  ,CCTV-3
 http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-4
+#EXTINF:-1 group-titleName="央视"  ,CCTV-4
 http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-5
+#EXTINF:-1 group-titleName="央视"  ,CCTV-5
 http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-5+
+#EXTINF:-1 group-titleName="央视"  ,CCTV-5+
 http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-6
+#EXTINF:-1 group-titleName="央视"  ,CCTV-6
 http://223.110.241.139:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-7
+#EXTINF:-1 group-titleName="央视"  ,CCTV-7
 http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-8
+#EXTINF:-1 group-titleName="央视"  ,CCTV-8
 http://223.110.241.139:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-9
+#EXTINF:-1 group-titleName="央视"  ,CCTV-9
 http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-10
+#EXTINF:-1 group-titleName="央视"  ,CCTV-10
 http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-11
+#EXTINF:-1 group-titleName="央视"  ,CCTV-11
 http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-12
+#EXTINF:-1 group-titleName="央视"  ,CCTV-12
 http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-13
+#EXTINF:-1 group-titleName="央视"  ,CCTV-13
 http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-14
+#EXTINF:-1 group-titleName="央视"  ,CCTV-14
 http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-15
+#EXTINF:-1 group-titleName="央视"  ,CCTV-15
 http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-NEWS
+#EXTINF:-1 group-titleName="央视"  ,CCTV-NEWS
 http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,发现之旅
+#EXTINF:-1 group-titleName="央视"  ,发现之旅
 http://223.110.241.139:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,老故事
+#EXTINF:-1 group-titleName="央视"  ,老故事
 http://223.110.241.139:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,女性时尚
+#EXTINF:-1 group-titleName="央视"  ,女性时尚
 http://223.110.241.139:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV6[1920x1080]
+#EXTINF:-1 group-titleName="央视"  ,CCTV6[1920x1080]
 http://223.110.242.130:6610/cntv/live1/HD-2500k-1080P-cctv6/HD-2500k-1080P-cctv6/1.m3u8?IASHttpSessionId=OTT2499720190411230630057628
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-高尔夫网球[需中国移动或代理线路]
+#EXTINF:-1 group-titleName="央视"  ,CCTV-高尔夫网球[需中国移动或代理线路]
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226420/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-老故事[需中国移动或代理线路]
+#EXTINF:-1 group-titleName="央视"  ,CCTV-老故事[需中国移动或代理线路]
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-女性时尚[需中国移动或代理线路]
+#EXTINF:-1 group-titleName="央视"  ,CCTV-女性时尚[需中国移动或代理线路]
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV2 FHD直连
+#EXTINF:-1 group-titleName="央视"  ,CCTV2 FHD直连
 http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV发现之旅
+#EXTINF:-1 group-titleName="央视"  ,CCTV发现之旅
 http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8#eyJIb3N0IjoiaGxzLW90dC16aGliby53YXN1LnR2IiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-10科教
+#EXTINF:-1 group-titleName="央视"  ,CCTV-10科教
 http://tv.tsytv.com.cn/liveho/CCTV-10.stream/playlist.m3u8?sign=b46fc3f4d94512976a50dd83050811fb&t=5cb7e089#eyJIb3N0IjoidHYudHN5dHYuY29tLmNuIiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-9纪录
+#EXTINF:-1 group-titleName="央视"  ,CCTV-9纪录
 http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8#eyJIb3N0IjoiaGxzLW90dC16aGliby53YXN1LnR2IiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-9纪录
+#EXTINF:-1 group-titleName="央视"  ,CCTV-9纪录
 http://tv.tsytv.com.cn/liveho/CCTV-9.stream/playlist.m3u8?sign=fd4501b156768b7962035548b1e8120f&t=5cb7e07f#eyJIb3N0IjoidHYudHN5dHYuY29tLmNuIiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-8电视剧
+#EXTINF:-1 group-titleName="央视"  ,CCTV-8电视剧
 http://tv.tsytv.com.cn/liveho/CCTV-8HD.stream/playlist.m3u8?sign=351072e8feda50fc46023d17e881ad5a&t=5cb7e072#eyJIb3N0IjoidHYudHN5dHYuY29tLmNuIiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-7军事农业
+#EXTINF:-1 group-titleName="央视"  ,CCTV-7军事农业
 http://tv.tsytv.com.cn/liveho/CCTV-7.stream/playlist.m3u8?sign=081519bb6758b3e279065e05fe15f4fb&t=5cb7e065#eyJIb3N0IjoidHYudHN5dHYuY29tLmNuIiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-6电影
+#EXTINF:-1 group-titleName="央视"  ,CCTV-6电影
 http://tv.tsytv.com.cn/liveho/CCTV-6HD.stream/playlist.m3u8?sign=cf623a66aaa6f1a214ba2c399bd21b77&t=5cb7e058#eyJIb3N0IjoidHYudHN5dHYuY29tLmNuIiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-4国际
+#EXTINF:-1 group-titleName="央视"  ,CCTV-4国际
 http://tv.tsytv.com.cn/liveho/CCTV-4.stream/playlist.m3u8?sign=72b3ceff63ed1a5709eb25773bfef0d8&t=5cb7e04b#eyJIb3N0IjoidHYudHN5dHYuY29tLmNuIiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-3综艺
+#EXTINF:-1 group-titleName="央视"  ,CCTV-3综艺
 http://tv.tsytv.com.cn/liveho/CCTV-3HD.stream/playlist.m3u8?sign=890aa357e86f502c535a19600f522ec8&t=5cb7e039#eyJIb3N0IjoidHYudHN5dHYuY29tLmNuIiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-2财经
+#EXTINF:-1 group-titleName="央视"  ,CCTV-2财经
 http://tv.tsytv.com.cn/liveho/CCTV-2HD.stream/playlist.m3u8?sign=2a1edebbfb1f2379f04baa8f511192ff&t=5cb7e021#eyJIb3N0IjoidHYudHN5dHYuY29tLmNuIiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV6-HD
+#EXTINF:-1 group-titleName="央视"  ,CCTV6-HD
 http://tv.tsytv.com.cn/liveho/CCTV-6HD.stream/playlist.m3u8?sign=375aaf996a62e4b3c0fc399163f9e69c&t=5cb92c0b#eyJIb3N0IjoidHYudHN5dHYuY29tLmNuIiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-1
+#EXTINF:-1 group-titleName="央视"  ,CCTV-1
 http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-1高清
+#EXTINF:-1 group-titleName="央视"  ,CCTV-1高清
 http://223.110.242.130:6610/gitv/live1/G_CCTV-1-CQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-2高清
+#EXTINF:-1 group-titleName="央视"  ,CCTV-2高清
 http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-3高清
+#EXTINF:-1 group-titleName="央视"  ,CCTV-3高清
 http://223.110.242.130:6610/gitv/live1/G_CCTV-3-CQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-4高清
+#EXTINF:-1 group-titleName="央视"  ,CCTV-4高清
 http://223.110.242.130:6610/gitv/live1/G_CCTV-4-CQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-5高清
+#EXTINF:-1 group-titleName="央视"  ,CCTV-5高清
 http://223.110.242.130:6610/gitv/live1/G_CCTV-5-CQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-6高清
+#EXTINF:-1 group-titleName="央视"  ,CCTV-6高清
 http://223.110.242.130:6610/gitv/live1/G_CCTV-6-CQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-8高清
+#EXTINF:-1 group-titleName="央视"  ,CCTV-8高清
 http://223.110.242.130:6610/gitv/live1/G_CCTV-8-CQ/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV-10高清
+#EXTINF:-1 group-titleName="央视"  ,CCTV-10高清
 http://112.50.243.7/PLTV/88888888/224/3221225814/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV1
+#EXTINF:-1 group-titleName="央视"  ,CCTV1
 https://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV2
+#EXTINF:-1 group-titleName="央视"  ,CCTV2
 https://cctvalih5c.v.myalicdn.com/live/cctv2_2/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV3
+#EXTINF:-1 group-titleName="央视"  ,CCTV3
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv3_2_hd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV3
+#EXTINF:-1 group-titleName="央视"  ,CCTV3
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv3_2/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV4
+#EXTINF:-1 group-titleName="央视"  ,CCTV4
 https://cctvcnch5c.v.wscdns.com/live/cctv4_2/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV4
+#EXTINF:-1 group-titleName="央视"  ,CCTV4
 https://cctvcnch5c.v.wscdns.com/live/cctvamerica_2/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV7
+#EXTINF:-1 group-titleName="央视"  ,CCTV7
 https://cctvalih5c.v.myalicdn.com/live/cctv7_2/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV13
+#EXTINF:-1 group-titleName="央视"  ,CCTV13
 https://cctvalih5c.v.myalicdn.com/live/cctv13_2/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV13
+#EXTINF:-1 group-titleName="央视"  ,CCTV13
 https://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV14
+#EXTINF:-1 group-titleName="央视"  ,CCTV14
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctvchild_2_hd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="央视" ,CCTV14
+#EXTINF:-1 group-titleName="央视"  ,CCTV14
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方",江苏影视[1047*576]
+#EXTINF:-1 group-titleName="地方" ,江苏影视[1047*576]
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,潮安影视[640*360]
+#EXTINF:-1 group-titleName="地方"  ,潮安影视[640*360]
 http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,潮安综合[640*360]
+#EXTINF:-1 group-titleName="地方"  ,潮安综合[640*360]
 http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,峨边电视台[720*576]
+#EXTINF:-1 group-titleName="地方"  ,峨边电视台[720*576]
 http://218.6.224.15:8011/vms/videos/channellive/channel15/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,河口综合[720*576]
+#EXTINF:-1 group-titleName="地方"  ,河口综合[720*576]
 http://221.3.215.44:9099/hktv/hktv.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,徐州新闻综合[1280*720]
+#EXTINF:-1 group-titleName="地方"  ,徐州新闻综合[1280*720]
 http://183.207.248.11/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,河北影视[655*480]
+#EXTINF:-1 group-titleName="地方"  ,河北影视[655*480]
 http://weblive.hebtv.com/live/hbys_bq/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,万州区电视台综合[1024*576]
+#EXTINF:-1 group-titleName="地方"  ,万州区电视台综合[1024*576]
 http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,黔江区电视台[785*576]
+#EXTINF:-1 group-titleName="地方"  ,黔江区电视台[785*576]
 http://qianjianglive.cbg.cn:9001/hls/live/live1/starsam.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,黔江区电视台武陵[785*576]
+#EXTINF:-1 group-titleName="地方"  ,黔江区电视台武陵[785*576]
 http://qianjianglive.cbg.cn:9001/hls/live/live2/starsam.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,黔江区电视台生态文化[785*576]
+#EXTINF:-1 group-titleName="地方"  ,黔江区电视台生态文化[785*576]
 http://qianjianglive.cbg.cn:9001/hls/live/live3/starsam.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,北京文艺HD[1920*1080]
+#EXTINF:-1 group-titleName="地方"  ,北京文艺HD[1920*1080]
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,舟山公共生活[640*480]
+#EXTINF:-1 group-titleName="地方"  ,舟山公共生活[640*480]
 http://live.wifizs.cn/ggsh/sd/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,舟山群岛旅游[640*480]
+#EXTINF:-1 group-titleName="地方"  ,舟山群岛旅游[640*480]
 http://live.wifizs.cn/qdly/sd/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江津区电视台文化旅游[768*576]
+#EXTINF:-1 group-titleName="地方"  ,江津区电视台文化旅游[768*576]
 http://222.179.155.21:1935/ch2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,广东新闻频道[640*480]
+#EXTINF:-1 group-titleName="地方"  ,广东新闻频道[640*480]
 http://nclive.grtn.cn/xwpd/sd/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,广东公共频道[640*480]
+#EXTINF:-1 group-titleName="地方"  ,广东公共频道[640*480]
 http://nclive.grtn.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,广东房产频道[640*480]
+#EXTINF:-1 group-titleName="地方"  ,广东房产频道[640*480]
 http://nclive.grtn.cn/fcpd/sd/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,北京科教[785*576]
+#EXTINF:-1 group-titleName="地方"  ,北京科教[785*576]
 http://ivi.bupt.edu.cn/hls/btv3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖北影视[785*576]
+#EXTINF:-1 group-titleName="地方"  ,湖北影视[785*576]
 http://live.cjyun.org/video/s10008-hbys2018/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,滨海综艺[720*576]
+#EXTINF:-1 group-titleName="地方"  ,滨海综艺[720*576]
 http://60.30.52.41/live/bhtv2/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,滨海新闻[720*576]
+#EXTINF:-1 group-titleName="地方"  ,滨海新闻[720*576]
 http://60.30.52.41/live/bhtv1/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,北京青年[785*576]
+#EXTINF:-1 group-titleName="地方"  ,北京青年[785*576]
 http://ivi.bupt.edu.cn/hls/btv8.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,阜阳公共频道[720*576]
+#EXTINF:-1 group-titleName="地方"  ,阜阳公共频道[720*576]
 http://120.210.216.73:8080/ysten-business/reallive/fyggpd/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,阜阳新闻综合[720*576]
+#EXTINF:-1 group-titleName="地方"  ,阜阳新闻综合[720*576]
 http://120.210.216.73:8080/ysten-business/reallive/fyxwpd/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,滨州新闻综合[720*576]
+#EXTINF:-1 group-titleName="地方"  ,滨州新闻综合[720*576]
 http://stream.bzcm.net/2/sd/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖北休闲指南[720*576]
+#EXTINF:-1 group-titleName="地方"  ,湖北休闲指南[720*576]
 http://live.cjyun.org/video/s10008-klcz2018/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖北综合[1920*1080]
+#EXTINF:-1 group-titleName="地方"  ,湖北综合[1920*1080]
 http://live.cjyun.org/video/s10008-zh2018/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,滨州公共电视剧[720*576]
+#EXTINF:-1 group-titleName="地方"  ,滨州公共电视剧[720*576]
 http://stream.bzcm.net/1/sd/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,万州区电视台影视文艺[1024*576]
+#EXTINF:-1 group-titleName="地方"  ,万州区电视台影视文艺[1024*576]
 http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,阜阳教育频道[720*576]
+#EXTINF:-1 group-titleName="地方"  ,阜阳教育频道[720*576]
 http://120.210.216.73:8080/ysten-business/reallive/fydspd/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,万州区电视台科教[1024*576]
+#EXTINF:-1 group-titleName="地方"  ,万州区电视台科教[1024*576]
 http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,丰都文化旅游[785*576]
+#EXTINF:-1 group-titleName="地方"  ,丰都文化旅游[785*576]
 http://125.62.25.201:1936/output0.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,长丰新闻综合[768*576]
+#EXTINF:-1 group-titleName="地方"  ,长丰新闻综合[768*576]
 http://218.23.114.19:1935/live/xinwen/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,滁州科教频道[800*450]
+#EXTINF:-1 group-titleName="地方"  ,滁州科教频道[800*450]
 http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,嘉兴海盐新闻综合[640*480]
+#EXTINF:-1 group-titleName="地方"  ,嘉兴海盐新闻综合[640*480]
 http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,大竹阳光政务[1920*1080]
+#EXTINF:-1 group-titleName="地方"  ,大竹阳光政务[1920*1080]
 http://175.153.153.53:8083/videos/live/17/51/958cxpfHCjqwj/958cxpfHCjqwj.M3U8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,大竹新闻综合[1920*1080]
+#EXTINF:-1 group-titleName="地方"  ,大竹新闻综合[1920*1080]
 http://175.153.153.53:8083/videos/live/50/0/fvfm8SqxEkQGt/fvfm8SqxEkQGt.M3U8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,万州区电视台三峡移民[1024*576]
+#EXTINF:-1 group-titleName="地方"  ,万州区电视台三峡移民[1024*576]
 http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,金华都市农村[768*576]
+#EXTINF:-1 group-titleName="地方"  ,金华都市农村[768*576]
 http://stream.jinhua.com.cn/dsnc/app/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,安庆公共频道[640*480]
+#EXTINF:-1 group-titleName="地方"  ,安庆公共频道[640*480]
 http://live.aqbtv.cn:9600/live/ggpd_100/tzwj_video.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,红河州新闻综合[720*576]
+#EXTINF:-1 group-titleName="地方"  ,红河州新闻综合[720*576]
 http://221.3.215.43:9099/ch1/ch1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,红河州经济生活[720*576]
+#EXTINF:-1 group-titleName="地方"  ,红河州经济生活[720*576]
 http://221.3.215.43:9099/ch2/ch2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,红河县综合[720*576]
+#EXTINF:-1 group-titleName="地方"  ,红河县综合[720*576]
 http://221.3.215.43:9099/hhtv/hhtv.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,个旧综合[720*576]
+#EXTINF:-1 group-titleName="地方"  ,个旧综合[720*576]
 http://221.3.215.44:9099/gjtv/gjtv.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,福州影视频道[960*720]
+#EXTINF:-1 group-titleName="地方"  ,福州影视频道[960*720]
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,安庆黄梅戏频道[640*480]
+#EXTINF:-1 group-titleName="地方"  ,安庆黄梅戏频道[640*480]
 http://live.aqbtv.cn:9600/live/hmx/tzwj_video.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,怀柔电视台[800*450]
+#EXTINF:-1 group-titleName="地方"  ,怀柔电视台[800*450]
 http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,垫江县电视台丹乡文化[785*576]
+#EXTINF:-1 group-titleName="地方"  ,垫江县电视台丹乡文化[785*576]
 http://dianjianglive.cbg.cn:8010/hls/stream/qcx9dxe6.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,金华教育科技[768*576]
+#EXTINF:-1 group-titleName="地方"  ,金华教育科技[768*576]
 http://stream.jinhua.com.cn/jykj/app/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,蚌埠生活频道[720*576]
+#EXTINF:-1 group-titleName="地方"  ,蚌埠生活频道[720*576]
 http://newvod.ahbbtv.com:1935/live/smil:shpd_copy.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,东至新闻综合[1280*720]
+#EXTINF:-1 group-titleName="地方"  ,东至新闻综合[1280*720]
 http://223.247.33.124:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,抚州公共频道[320*270]
+#EXTINF:-1 group-titleName="地方"  ,抚州公共频道[320*270]
 http://111.75.179.195:30767/video/live_vide2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,抚州综合频道[320*270]
+#EXTINF:-1 group-titleName="地方"  ,抚州综合频道[320*270]
 http://111.75.179.195:30767/video/live_vide.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,蚌埠新闻综合[720*576]
+#EXTINF:-1 group-titleName="地方"  ,蚌埠新闻综合[720*576]
 http://newvod.ahbbtv.com:1935/live/smil:xwpd_copy.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,长春综合[768*576]
+#EXTINF:-1 group-titleName="地方"  ,长春综合[768*576]
 http://stream2.jlntv.cn/jlcc/sd/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,潮州公共[640*480]
+#EXTINF:-1 group-titleName="地方"  ,潮州公共[640*480]
 http://live.zscz0768.com/live/ggpd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,河池新闻综合[720*576]
+#EXTINF:-1 group-titleName="地方"  ,河池新闻综合[720*576]
 http://222.218.142.198:81/hls/ch3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,河池教育频道[720*576]
+#EXTINF:-1 group-titleName="地方"  ,河池教育频道[720*576]
 http://222.218.142.198:81/hls/jy3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,万盛区电视台新闻综合[720*576]
+#EXTINF:-1 group-titleName="地方"  ,万盛区电视台新闻综合[720*576]
 http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,綦江区电视台综合[768*576]
+#EXTINF:-1 group-titleName="地方"  ,綦江区电视台综合[768*576]
 http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_25.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江门综合[1920*1080]
+#EXTINF:-1 group-titleName="地方"  ,江门综合[1920*1080]
 http://218.17.99.211:82/hls/d4encs75.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,巴中公共频道[1920*1080]
+#EXTINF:-1 group-titleName="地方"  ,巴中公共频道[1920*1080]
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,山东影视[720*406]
+#EXTINF:-1 group-titleName="地方"  ,山东影视[720*406]
 http://ksdlive.gwpd.iqilu.com/yspd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,嘉善新闻综合[720*576]
+#EXTINF:-1 group-titleName="地方"  ,嘉善新闻综合[720*576]
 http://116.62.31.234:1935/jsgdxwzh/myStream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,绩溪新闻频道[768*576]
+#EXTINF:-1 group-titleName="地方"  ,绩溪新闻频道[768*576]
 http://124.112.228.134:1935/live/zongyi/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,开州区电视台综合[1280*720]
+#EXTINF:-1 group-titleName="地方"  ,开州区电视台综合[1280*720]
 http://kaixianlive.cbg.cn:10345/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,肥西生活频道[768*576]
+#EXTINF:-1 group-titleName="地方"  ,肥西生活频道[768*576]
 http://60.168.145.236:1936/live/movie/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,嘉善善文化[720*576]
+#EXTINF:-1 group-titleName="地方"  ,嘉善善文化[720*576]
 http://116.62.31.234:1935/jsgdswh/myStream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,巴中综合频道[1920*1080]
+#EXTINF:-1 group-titleName="地方"  ,巴中综合频道[1920*1080]
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,忠县电视台综合[785*576]
+#EXTINF:-1 group-titleName="地方"  ,忠县电视台综合[785*576]
 http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_35.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,长寿区电视台综合[720*576]
+#EXTINF:-1 group-titleName="地方"  ,长寿区电视台综合[720*576]
 http://qxlmlive.cbg.cn:1935/app_2/ls_63.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,开州区电视台生活[1280*720]
+#EXTINF:-1 group-titleName="地方"  ,开州区电视台生活[1280*720]
 http://kaixianlive.cbg.cn:10345/5.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,阜阳都市频道[720*576]
+#EXTINF:-1 group-titleName="地方"  ,阜阳都市频道[720*576]
 http://120.210.216.73:8080/ysten-business/reallive/fyjypd/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江津经济生活[768*576]
+#EXTINF:-1 group-titleName="地方"  ,江津经济生活[768*576]
 http://222.179.155.21:1935/ch0.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,安图民声频道[1280*720]
+#EXTINF:-1 group-titleName="地方"  ,安图民声频道[1280*720]
 http://32004.hlsplay.aodianyun.com/guangdianyun_32004/tv_channel_199.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,潮安综合[960*540]
+#EXTINF:-1 group-titleName="地方"  ,潮安综合[960*540]
 http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江津新闻综合[768*576]
+#EXTINF:-1 group-titleName="地方"  ,江津新闻综合[768*576]
 http://222.179.155.21:1935/ch1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,潮安综合[640*360]
+#EXTINF:-1 group-titleName="地方"  ,潮安综合[640*360]
 http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,焦作公共频道[785*576]
+#EXTINF:-1 group-titleName="地方"  ,焦作公共频道[785*576]
 http://222.143.133.157:90/hls/pd2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,潮州综合[640*480]
+#EXTINF:-1 group-titleName="地方"  ,潮州综合[640*480]
 http://live.zscz0768.com/live/zhpd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,焦作教育频道[785*576]
+#EXTINF:-1 group-titleName="地方"  ,焦作教育频道[785*576]
 http://222.143.133.157:90/hls/pd3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,成安综艺[960*720]
+#EXTINF:-1 group-titleName="地方"  ,成安综艺[960*720]
 http://hbca.chinashadt.com:1936/live/stream:cakl.stream_720p/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,焦作综合频道[785*576]
+#EXTINF:-1 group-titleName="地方"  ,焦作综合频道[785*576]
 http://222.143.133.157:90/hls/pd1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,安图综合频道[1280*720]
+#EXTINF:-1 group-titleName="地方"  ,安图综合频道[1280*720]
 http://32004.hlsplay.aodianyun.com/guangdianyun_32004/tv_channel_200.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,磁县综合频道[1047*576]
+#EXTINF:-1 group-titleName="地方"  ,磁县综合频道[1047*576]
 http://hbcx.chinashadt.com:1937/live/stream:hdxw.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,成安综合[960*720]
+#EXTINF:-1 group-titleName="地方"  ,成安综合[960*720]
 http://hbca.chinashadt.com:1936/live/stream:cazh.stream_720p/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,德化新闻综合[768*576]
+#EXTINF:-1 group-titleName="地方"  ,德化新闻综合[768*576]
 http://zb.dehua.tv:8134/hls-live/livepkgr/_definst_/wslhevent/hls_pindao_1_500.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,滁州公共频道[800*450]
+#EXTINF:-1 group-titleName="地方"  ,滁州公共频道[800*450]
 http://183.167.193.45:1935/live/cztvgg/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,郑州地铁2频道[640*360]
+#EXTINF:-1 group-titleName="地方"  ,郑州地铁2频道[640*360]
 http://218.29.90.216:280/live/s2/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,濮阳公共频道[720*576]
+#EXTINF:-1 group-titleName="地方"  ,濮阳公共频道[720*576]
 http://218.29.171.2:380/live/py2/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,德阳新闻综合[1280*720]
+#EXTINF:-1 group-titleName="地方"  ,德阳新闻综合[1280*720]
 http://scdytv.com:1935/live/xwpd_livevideo/palylist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江西卫视(移动线路)
+#EXTINF:-1 group-titleName="地方"  ,江西卫视(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225914/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,安徽卫视(移动线路)
+#EXTINF:-1 group-titleName="地方"  ,安徽卫视(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225915/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,天津卫视(移动线路)
+#EXTINF:-1 group-titleName="地方"  ,天津卫视(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225960/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,东南卫视(移动线路)
+#EXTINF:-1 group-titleName="地方"  ,东南卫视(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225961/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,厦门一套
+#EXTINF:-1 group-titleName="地方"  ,厦门一套
 http://cstv.live.wscdns.com/live/xiamen1/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,厦门三套
+#EXTINF:-1 group-titleName="地方"  ,厦门三套
 http://cstv.live.wscdns.com/live/xiamen3/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,厦门二套
+#EXTINF:-1 group-titleName="地方"  ,厦门二套
 http://cstv.live.wscdns.com/live/xiamen2/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,厦门卫视
+#EXTINF:-1 group-titleName="地方"  ,厦门卫视
 http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视HD
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视HD
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江蘇卫视HD
+#EXTINF:-1 group-titleName="地方"  ,江蘇卫视HD
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,北京卫视HD
+#EXTINF:-1 group-titleName="地方"  ,北京卫视HD
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,安徽卫视HD
+#EXTINF:-1 group-titleName="地方"  ,安徽卫视HD
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,黑龙江卫视HD
+#EXTINF:-1 group-titleName="地方"  ,黑龙江卫视HD
 http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,深圳卫视HD
+#EXTINF:-1 group-titleName="地方"  ,深圳卫视HD
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,广东卫视HD
+#EXTINF:-1 group-titleName="地方"  ,广东卫视HD
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,天津卫视HD
+#EXTINF:-1 group-titleName="地方"  ,天津卫视HD
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖北卫视HD
+#EXTINF:-1 group-titleName="地方"  ,湖北卫视HD
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,上海教育台
+#EXTINF:-1 group-titleName="地方"  ,上海教育台
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江苏卫视
+#EXTINF:-1 group-titleName="地方"  ,江苏卫视
 http://223.110.241.139:6610/gitv/live1/JSWS-HD/JSWS-HD/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,辽宁卫视
+#EXTINF:-1 group-titleName="地方"  ,辽宁卫视
 http://223.110.241.139:6610/gitv/live1/LNWS/LNWS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,浙江卫视
+#EXTINF:-1 group-titleName="地方"  ,浙江卫视
 http://223.110.241.139:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://223.110.241.139:6610/gitv/live1/G_HUNAN/G_HUNAN/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,安徽卫视
+#EXTINF:-1 group-titleName="地方"  ,安徽卫视
 http://223.110.241.139:6610/gitv/live1/AHWS/AHWS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,山东卫视
+#EXTINF:-1 group-titleName="地方"  ,山东卫视
 http://223.110.241.139:6610/gitv/live1/SDWS/SDWS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,广西卫视
+#EXTINF:-1 group-titleName="地方"  ,广西卫视
 http://223.110.241.139:6610/gitv/live1/GXWS/GXWS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,旅游卫视
+#EXTINF:-1 group-titleName="地方"  ,旅游卫视
 http://223.110.241.139:6610/gitv/live1/LYWS/LYWS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,重庆卫视
+#EXTINF:-1 group-titleName="地方"  ,重庆卫视
 http://223.110.241.139:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,四川卫视
+#EXTINF:-1 group-titleName="地方"  ,四川卫视
 http://223.110.241.139:6610/gitv/live1/SCWS/SCWS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,河南卫视
+#EXTINF:-1 group-titleName="地方"  ,河南卫视
 http://223.110.241.139:6610/gitv/live1/HENAN/HENAN/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,东南卫视
+#EXTINF:-1 group-titleName="地方"  ,东南卫视
 http://223.110.241.139:6610/gitv/live1/DNWS/DNWS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,天津卫视
+#EXTINF:-1 group-titleName="地方"  ,天津卫视
 http://223.110.241.139:6610/gitv/live1/TJWS/TJWS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江西卫视
+#EXTINF:-1 group-titleName="地方"  ,江西卫视
 http://223.110.241.139:6610/gitv/live1/JXWS/JXWS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖北卫视
+#EXTINF:-1 group-titleName="地方"  ,湖北卫视
 http://223.110.241.139:6610/gitv/live1/G_HUBEI/G_HUBEI/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,吉林卫视
+#EXTINF:-1 group-titleName="地方"  ,吉林卫视
 http://223.110.241.139:6610/gitv/live1/G_JILIN/G_JILIN/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,山西卫视
+#EXTINF:-1 group-titleName="地方"  ,山西卫视
 http://223.110.241.139:6610/gitv/live1/SXWS/SXWS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,贵州卫视
+#EXTINF:-1 group-titleName="地方"  ,贵州卫视
 http://223.110.241.139:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,青海卫视
+#EXTINF:-1 group-titleName="地方"  ,青海卫视
 http://223.110.241.139:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,内蒙古卫视
+#EXTINF:-1 group-titleName="地方"  ,内蒙古卫视
 http://223.110.241.139:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,云南卫视
+#EXTINF:-1 group-titleName="地方"  ,云南卫视
 http://223.110.241.139:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,河北卫视
+#EXTINF:-1 group-titleName="地方"  ,河北卫视
 http://223.110.241.139:6610/gitv/live1/G_HEBEI/G_HEBEI/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,宁夏卫视
+#EXTINF:-1 group-titleName="地方"  ,宁夏卫视
 http://223.110.241.139:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,新疆卫视
+#EXTINF:-1 group-titleName="地方"  ,新疆卫视
 http://223.110.241.139:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,甘肃卫视
+#EXTINF:-1 group-titleName="地方"  ,甘肃卫视
 http://223.110.241.139:6610/gitv/live1/G_GANSU/G_GANSU/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,西藏卫视
+#EXTINF:-1 group-titleName="地方"  ,西藏卫视
 http://223.110.241.139:6610/gitv/live1/G_XIZANG/G_XIZANG/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,东方卫视
+#EXTINF:-1 group-titleName="地方"  ,东方卫视
 http://223.110.241.139:6610/gitv/live1/G_DONGFANG/G_DONGFANG/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,北京卫视
+#EXTINF:-1 group-titleName="地方"  ,北京卫视
 http://223.110.241.139:6610/gitv/live1/G_BEIJING/G_BEIJING/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,广东卫视
+#EXTINF:-1 group-titleName="地方"  ,广东卫视
 http://223.110.241.139:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,深圳卫视
+#EXTINF:-1 group-titleName="地方"  ,深圳卫视
 http://223.110.241.139:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,黑龙江卫视
+#EXTINF:-1 group-titleName="地方"  ,黑龙江卫视
 http://223.110.241.139:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,兵团卫视
+#EXTINF:-1 group-titleName="地方"  ,兵团卫视
 http://223.110.241.139:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,陕西卫视
+#EXTINF:-1 group-titleName="地方"  ,陕西卫视
 http://223.110.241.139:6610/gitv/live1/G_SHANXI/G_SHANXI/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,南方卫视（广东）
+#EXTINF:-1 group-titleName="地方"  ,南方卫视（广东）
 http://223.110.241.139:6610/gitv/live1/G_NANFANG/G_NANFANG/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,厦门卫视
+#EXTINF:-1 group-titleName="地方"  ,厦门卫视
 http://223.110.241.139:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,山东卫视超清
+#EXTINF:-1 group-titleName="地方"  ,山东卫视超清
 http://223.110.241.139:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,延边卫视
+#EXTINF:-1 group-titleName="地方"  ,延边卫视
 http://223.110.241.139:6610/gitv/live1/G_YANBIAN/G_YANBIAN/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,山东教育电视台
+#EXTINF:-1 group-titleName="地方"  ,山东教育电视台
 http://223.110.241.139:6610/gitv/live1/G_SDETV/G_SDETV/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,安多卫视
+#EXTINF:-1 group-titleName="地方"  ,安多卫视
 http://223.110.241.139:6610/gitv/live1/G_ANDUO/G_ANDUO/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,考试在线
+#EXTINF:-1 group-titleName="地方"  ,考试在线
 http://223.110.241.139:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,农林卫视
+#EXTINF:-1 group-titleName="地方"  ,农林卫视
 http://223.110.241.139:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,置业频道
+#EXTINF:-1 group-titleName="地方"  ,置业频道
 http://223.110.241.139:6610/gitv/live1/G_ZHIYE/G_ZHIYE/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,康巴卫视
+#EXTINF:-1 group-titleName="地方"  ,康巴卫视
 http://223.110.241.139:6610/gitv/live1/G_KANGBA/G_KANGBA/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,京视剧场
+#EXTINF:-1 group-titleName="地方"  ,京视剧场
 http://223.110.241.139:6610/gitv/live1/G_JINGJU/G_JINGJU/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,新娱乐
+#EXTINF:-1 group-titleName="地方"  ,新娱乐
 http://223.110.241.139:6610/gitv/live1/G_XINYULE/G_XINYULE/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,家庭理财
+#EXTINF:-1 group-titleName="地方"  ,家庭理财
 http://223.110.241.139:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,职业指南
+#EXTINF:-1 group-titleName="地方"  ,职业指南
 http://223.110.241.139:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,证券资讯
+#EXTINF:-1 group-titleName="地方"  ,证券资讯
 http://223.110.241.139:6610/gitv/live1/G_ZHENGJUANZX/G_ZHENGJUANZX/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,中国交通频道
+#EXTINF:-1 group-titleName="地方"  ,中国交通频道
 http://223.110.241.139:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,国学频道
+#EXTINF:-1 group-titleName="地方"  ,国学频道
 http://223.110.241.139:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江苏教育
+#EXTINF:-1 group-titleName="地方"  ,江苏教育
 http://223.110.241.139:6610/gitv/live1/G_JSJY/G_JSJY/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江苏城市
+#EXTINF:-1 group-titleName="地方"  ,江苏城市
 http://223.110.241.139:6610/gitv/live1/G_JSCS/G_JSCS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江苏公共
+#EXTINF:-1 group-titleName="地方"  ,江苏公共
 http://223.110.241.139:6610/gitv/live1/G_JSGG/G_JSGG/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江苏影视
+#EXTINF:-1 group-titleName="地方"  ,江苏影视
 http://223.110.241.139:6610/gitv/live1/G_JSYS/G_JSYS/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江苏综艺
+#EXTINF:-1 group-titleName="地方"  ,江苏综艺
 http://223.110.241.139:6610/gitv/live1/G_JSZY/G_JSZY/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,好享购
+#EXTINF:-1 group-titleName="地方"  ,好享购
 http://223.110.241.139:6610/gitv/live1/G_HAOXIANG/G_HAOXIANG/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,南京新闻综合
+#EXTINF:-1 group-titleName="地方"  ,南京新闻综合
 http://223.110.241.139:6610/gitv/live1/G_NJXW/G_NJXW/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,南京科教
+#EXTINF:-1 group-titleName="地方"  ,南京科教
 http://223.110.241.139:6610/gitv/live1/G_NJJK/G_NJJK/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,南京十八
+#EXTINF:-1 group-titleName="地方"  ,南京十八
 http://223.110.241.139:6610/gitv/live1/G_NJSB/G_NJSB/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视超清-8M
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视超清-8M
 http://223.110.241.139:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江苏卫视超清
+#EXTINF:-1 group-titleName="地方"  ,江苏卫视超清
 http://223.110.241.139:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,北京卫视超清-8M
+#EXTINF:-1 group-titleName="地方"  ,北京卫视超清-8M
 http://223.110.241.139:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,浙江卫视超清
+#EXTINF:-1 group-titleName="地方"  ,浙江卫视超清
 http://223.110.241.139:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,东方卫视超清-8M
+#EXTINF:-1 group-titleName="地方"  ,东方卫视超清-8M
 http://223.110.241.139:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,广东综艺 4k
+#EXTINF:-1 group-titleName="地方"  ,广东综艺 4k
 http://dslive.grtn.cn/4K/sd/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,TVS2
+#EXTINF:-1 group-titleName="地方"  ,TVS2
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,西藏卫视
+#EXTINF:-1 group-titleName="地方"  ,西藏卫视
 http://ivi.bupt.edu.cn/hls/xztv.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,西藏卫视
+#EXTINF:-1 group-titleName="地方"  ,西藏卫视
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xizangstv/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,西藏卫视
+#EXTINF:-1 group-titleName="地方"  ,西藏卫视
 http://121.31.30.90:8085/ysten-business/live/xizangstv/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,西藏卫视
+#EXTINF:-1 group-titleName="地方"  ,西藏卫视
 http://183.207.248.11/PLTV/3/224/3221225579/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,西藏卫视
+#EXTINF:-1 group-titleName="地方"  ,西藏卫视
 http://121.31.30.90:8085/ysten-business/live/xizangstv/yst.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,深圳体育健康
+#EXTINF:-1 group-titleName="地方"  ,深圳体育健康
 http://www.szmgiptv.com:14436/hls/10.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,深圳都市
+#EXTINF:-1 group-titleName="地方"  ,深圳都市
 http://www.szmgiptv.com:14436/hls/8.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,深圳DV生活
+#EXTINF:-1 group-titleName="地方"  ,深圳DV生活
 http://www.szmgiptv.com:14436/hls/9.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,深圳公共
+#EXTINF:-1 group-titleName="地方"  ,深圳公共
 http://www.szmgiptv.com:14436/hls/23.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,深圳娱乐
+#EXTINF:-1 group-titleName="地方"  ,深圳娱乐
 http://www.szmgiptv.com:14436/hls/22.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,南京少儿
+#EXTINF:-1 group-titleName="地方"  ,南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://121.31.30.90:8085/ysten-business/live/hunanstv/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227220/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://121.31.30.90:8085/ysten-business/live/hunanstv/yst.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227320/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225854/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225908/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://121.31.30.90:8085/ysten-business/live/hdhunanstv/yst.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,湖南卫视
+#EXTINF:-1 group-titleName="地方"  ,湖南卫视
 http://223.82.250.72/live/hdhunanstv/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,广东新闻频道
+#EXTINF:-1 group-titleName="地方"  ,广东新闻频道
 http://nclive.grtn.cn/xwpd/sd/live.m3u8#eyJIb3N0IjoibmNsaXZlLmdydG4uY24iLCJVc2VyLUFnZW50IjoiRGFsdmlrXC8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgNi4wLjE7IE11TXUgQnVpbGRcL1Y0MTdJUikifQ==
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,江西卫视
+#EXTINF:-1 group-titleName="地方"  ,江西卫视
 http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv01.m3u8#eyJIb3N0IjoibGl2ZTAyLmp4dHZjbi5jb20uY24iLCJVc2VyLUFnZW50IjoiRGFsdmlrXC8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgNi4wLjE7IE11TXUgQnVpbGRcL1Y0MTdJUikifQ==
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,浙江卫视
+#EXTINF:-1 group-titleName="地方"  ,浙江卫视
 http://ali.m.l.cztv.com/channels/lantian/channel01/360p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="地方" ,浙江卫视SD
+#EXTINF:-1 group-titleName="地方"  ,浙江卫视SD
 http://live4.plus.hebtv.com/zjws/sd/live.m3u8
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,亞洲新聞
+#EXTINF:-1 group-titleName="新闻"  ,亞洲新聞
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,民视新闻1
+#EXTINF:-1 group-titleName="新闻"  ,民视新闻1
 http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,一新闻
+#EXTINF:-1 group-titleName="新闻"  ,一新闻
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,壹新闻
+#EXTINF:-1 group-titleName="新闻"  ,壹新闻
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,天空新闻
+#EXTINF:-1 group-titleName="新闻"  ,天空新闻
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,民視新聞
+#EXTINF:-1 group-titleName="新闻"  ,民視新聞
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,英国Sky NEWS
+#EXTINF:-1 group-titleName="新闻"  ,英国Sky NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,一新闻备
+#EXTINF:-1 group-titleName="新闻"  ,一新闻备
 http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,第一财经
+#EXTINF:-1 group-titleName="新闻"  ,第一财经
 https://w1live.livecdn.yicai.com/live/cbn.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,第一财经
+#EXTINF:-1 group-titleName="新闻"  ,第一财经
 http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,Channel News Asia
+#EXTINF:-1 group-titleName="新闻"  ,Channel News Asia
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/02.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,TVBS新闻台
+#EXTINF:-1 group-titleName="新闻"  ,TVBS新闻台
 http://qipo.live:8080/live/l9qlOfr6M1/aNv01MpZ9z/206254.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,东森新闻台
+#EXTINF:-1 group-titleName="新闻"  ,东森新闻台
 http://qipo.live:8080/live/0NioLTIF75/5qrqHIDKmP/206264.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,中视新闻台
+#EXTINF:-1 group-titleName="新闻"  ,中视新闻台
 http://qipo.live:8080/live/KS1g83x9IJ/20rS9COFgZ/206252.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,BBC World News
+#EXTINF:-1 group-titleName="新闻"  ,BBC World News
 http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/74929.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="新闻" ,BBC News HD UK
+#EXTINF:-1 group-titleName="新闻"  ,BBC News HD UK
 http://qipo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/65183.m3u8
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,精品体育
+group-titleName="体育" ,精品体育
 http://117.187.29.38:6060/000000001000/6460382139625130259/1.m3u8?
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,MUTV
+group-titleName="体育" ,MUTV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,奥林匹克频道Olympic Channel
+group-titleName="体育" ,奥林匹克频道Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_4.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,百事体育1(移动线路)
+group-titleName="体育" ,百事体育1(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225901/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,百事体育2(移动线路)
+group-titleName="体育" ,百事体育2(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225905/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,百事体育2(移动线路)
+group-titleName="体育" ,百事体育2(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225908/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,百事体育3(移动线路)
+group-titleName="体育" ,百事体育3(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225917/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,百事体育4(移动线路)
+group-titleName="体育" ,百事体育4(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225957/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,百事体育5(移动线路)
+group-titleName="体育" ,百事体育5(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225958/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,百事超级体育(移动线路)
+group-titleName="体育" ,百事超级体育(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225906/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,百事超级体育2(移动线路)
+group-titleName="体育" ,百事超级体育2(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225907/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,五星体育(移动线路)
+group-titleName="体育" ,五星体育(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,极速汽车(移动线路)
+group-titleName="体育" ,极速汽车(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225962/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,广东体育
+group-titleName="体育" ,广东体育
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,ESPN HD
+group-titleName="体育" ,ESPN HD
 http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,ESPN 2HD
+group-titleName="体育" ,ESPN 2HD
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,SOCCER TV HD
+group-titleName="体育" ,SOCCER TV HD
 http://45.126.83.51/uq2663/h/h20/index2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,Fight time (ufc)HD
+group-titleName="体育" ,Fight time (ufc)HD
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,Fight Sport
+group-titleName="体育" ,Fight Sport
 http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,弈坛春秋
+group-titleName="体育" ,弈坛春秋
 http://223.110.241.139:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,高尔夫
+group-titleName="体育" ,高尔夫
 http://223.110.241.139:6610/gitv/live1/G_GAOERFU/G_GAOERFU/
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,篮球
+group-titleName="体育" ,篮球
 http://223.110.241.139:6610/gitv/live1/G_LANQIU/G_LANQIU/
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,江苏休闲体育
+group-titleName="体育" ,江苏休闲体育
 http://223.110.241.139:6610/gitv/live1/G_JSTY/G_JSTY/
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,NewTV中国功夫
+group-titleName="体育" ,NewTV中国功夫
 http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,五星体育[需中国移动或代理线路]
+group-titleName="体育" ,五星体育[需中国移动或代理线路]
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225964/1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="体育" ,先锋乒羽
+group-titleName="体育" ,先锋乒羽
 http://104.233.225.199:888/v/hunantv.php?id=329
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="电竞" ,VSPN全电竞HD
+group-titleName="电竞" ,VSPN全电竞HD
 http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="电竞",华数游戏
+group-titleName="电竞",华数游戏
 http://hls-ott-zhibo.wasu.tv/live/142/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="电竞",黑莓电竞
+group-titleName="电竞",黑莓电竞
 http://121.31.30.90:8085/ysten-business/live/wmyx/1.m3u8
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,CHC高清电影
+group-titleName="香港" ,CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",香港电影频道
+group-titleName="香港",香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",动作电影
+group-titleName="香港",动作电影
 http://117.187.29.38:6060/000000001000/8103864434730665389/1.m3u8?
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",明星大片
+group-titleName="香港",明星大片
 http://117.187.29.38:6060/000000001000/5595720619887440144/1.m3u8?
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",家庭剧场
+group-titleName="香港",家庭剧场
 http://117.187.29.38:6060/000000001000/6316377948248689070/1.m3u8?
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",濮阳睛彩电影[720*576]
+group-titleName="香港",濮阳睛彩电影[720*576]
 http://218.29.171.2:380/live/py3/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",HBO2
+group-titleName="香港",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",星衛電影HD
+group-titleName="香港",星衛電影HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",好莱坞电影
+group-titleName="香港",好莱坞电影
 http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",女神电影
+group-titleName="香港",女神电影
 http://tx.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",天映电影频道
+group-titleName="香港",天映电影频道
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",卧底警匪
+group-titleName="香港",卧底警匪
 http://tx.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",华数电影 HD
+group-titleName="香港",华数电影 HD
 http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",华数动作电影 HD
+group-titleName="香港",华数动作电影 HD
 http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",百事剧场鼎极(移动线路)
+group-titleName="香港",百事剧场鼎极(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225902/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",欢乐剧场(移动线路)
+group-titleName="香港",欢乐剧场(移动线路)
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225963/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",华数电影Guide
+group-titleName="香港",华数电影Guide
 http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",StarMovies HD
+group-titleName="香港",StarMovies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",漫威影宇宙
+group-titleName="香港",漫威影宇宙
 http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",峨眉电影HD
+group-titleName="香港",峨眉电影HD
 http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",环球影剧频道Universal Channel
+group-titleName="香港",环球影剧频道Universal Channel
 http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",HBO2 720p
+group-titleName="香港",HBO2 720p
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港",HBO HD
+group-titleName="香港",HBO HD
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="动画" ,动画王国
+group-titleName="动画" ,动画王国
 http://117.187.29.38:6060/000000001000/6497762188035533951/1.m3u8?
-#EXTINF:-1 group-titleName="音乐" group-titleName="动画" ,蜡笔小新
+group-titleName="动画" ,蜡笔小新
 http://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="动画" ,多来a梦
+group-titleName="动画" ,多来a梦
 http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="动画" ,优漫卡通
+group-titleName="动画" ,优漫卡通
 http://223.110.241.139:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
-#EXTINF:-1 group-titleName="音乐" group-titleName="动画" ,嘉佳卡通
+group-titleName="动画" ,嘉佳卡通
 http://223.110.241.139:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
-#EXTINF:-1 group-titleName="音乐" group-titleName="动画" ,卡酷少儿
+group-titleName="动画" ,卡酷少儿
 http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/
-#EXTINF:-1 group-titleName="音乐" group-titleName="动画" ,金鹰卡通
+group-titleName="动画" ,金鹰卡通
 http://223.110.241.139:6610/gitv/live1/G_JINYING/G_JINYING/
-#EXTINF:-1 group-titleName="音乐" group-titleName="动画" ,炫动卡通
+group-titleName="动画" ,炫动卡通
 http://223.110.241.139:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
-#EXTINF:-1 group-titleName="音乐" group-titleName="动画" ,嘉佳卡通
+group-titleName="动画" ,嘉佳卡通
 http://183.207.249.9/PLTV/2/224/3221226099/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="动画" ,深圳少儿
+group-titleName="动画" ,深圳少儿
 http://www.szmgiptv.com:14436/hls/21.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="动画" ,迪士尼 TV
+group-titleName="动画" ,迪士尼 TV
 http://tx.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="动画" ,BabyFirst
+group-titleName="动画" ,BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="动画" ,神奇宝贝-宠物小精灵
+group-titleName="动画" ,神奇宝贝-宠物小精灵
 https://aldirect.hls.huya.com/huyalive/29106097-2689280818-11550373163070128128-2777037662-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,TVB资讯台
+group-titleName="香港" ,TVB资讯台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,TVB无线财经台
+group-titleName="香港" ,TVB无线财经台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1698599909_b1096000.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,TVB无线财经台
+group-titleName="香港" ,TVB无线财经台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,香港财经
+group-titleName="香港" ,香港财经
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w919410739.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,环球电视
+group-titleName="香港" ,环球电视
 http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,环球电视
+group-titleName="香港" ,环球电视
 http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,香港开电视
+group-titleName="香港" ,香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,耀才财经台
+group-titleName="香港" ,耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,翡翠台
+group-titleName="香港" ,翡翠台
 http://m.567it.com/jade.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,翡翠台 FHD
+group-titleName="香港" ,翡翠台 FHD
 http://hls51-o.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,TVB明珠台
+group-titleName="香港" ,TVB明珠台
 http://m.567it.com/Pearl.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,Viu TV (需要香港节点播放)
+group-titleName="香港" ,Viu TV (需要香港节点播放)
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,HBO（需要代理）
+group-titleName="香港" ,HBO（需要代理）
 http://161.0.157.6/PLTV/88888888/224/3221226127/index.m3u8?icpid=88888888&from=2&ocs=2_161.0.157.50_80&hms_devid=24
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,香港创世电视1080P
+group-titleName="香港" ,香港创世电视1080P
 https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,香港佛陀教育协会
+group-titleName="香港" ,香港佛陀教育协会
 http://de1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,香港開电视
+group-titleName="香港" ,香港開电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#eyJIb3N0IjoibWVkaWEuZmFudHYuaGsiLCJVc2VyLUFnZW50IjoiRGFsdmlrXC8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgNi4wLjE7IE11TXUgQnVpbGRcL1Y0MTdJUikifQ==
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,香港開电视
+group-titleName="香港" ,香港開电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8#eyJSZWZlcmVyIjoiaHR0cDpcL1wvaXB0djE4Ni5jb21cLz9hY3Q9cGxheSZ0b2tlbj00MWJiOTQ0N2NhYmI1MjYyMmE2MjFmYmU4NjZmOGUzMiZ0aWQ9Z3QmaWQ9NyIsIkhvc3QiOiJtZWRpYS5mYW50di5oayIsIlVzZXItQWdlbnQiOiJNb3ppbGxhXC81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTJfMSkgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvNTYuMC4yOTI0Ljg3IFNhZmFyaVwvNTM3LjM2In0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,环球电视台
+group-titleName="香港" ,环球电视台
 http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8#eyJIb3N0IjoibGl2ZS1jZG4ueHp4d2hjYi5jb20iLCJVc2VyLUFnZW50IjoiRGFsdmlrXC8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgNi4wLjE7IE11TXUgQnVpbGRcL1Y0MTdJUikifQ==
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,环球电视台
+group-titleName="香港" ,环球电视台
 http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8#eyJIb3N0IjoibGl2ZS1jZG4ueHp4d2hjYi5jb20iLCJVc2VyLUFnZW50IjoiRGFsdmlrXC8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgNi4wLjE7IE11TXUgQnVpbGRcL1Y0MTdJUikifQ==
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,香港电视31台
+group-titleName="香港" ,香港电视31台
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,香港电视32台
+group-titleName="香港" ,香港电视32台
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,香港电视32台
+group-titleName="香港" ,香港电视32台
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,香港电视32台
+group-titleName="香港" ,香港电视32台
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,天映电影频道
+group-titleName="香港" ,天映电影频道
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="香港" ,RHK32
+group-titleName="香港" ,RHK32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="澳门" ,澳门卫视
+group-titleName="澳门" ,澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="澳门" ,澳亚卫视
+group-titleName="澳门" ,澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="澳门" ,澳门1
+group-titleName="澳门" ,澳门1
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="澳门" ,澳门2
+group-titleName="澳门" ,澳门2
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="澳门" ,澳视澳门
+group-titleName="澳门" ,澳视澳门
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="澳门" ,澳门卫视
+group-titleName="澳门" ,澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8#eyJSZWZlcmVyIjoiaHR0cDpcL1wvaXB0djE4Ni5jb21cLz9hY3Q9cGxheSZ0b2tlbj02ZmY1NjUwYjgwNzU5ODJkMTdhYzI5NjhjNTBkOGFmNiZ0aWQ9Z3QmaWQ9MjMiLCJIb3N0Ijoic3RyZWFtLm1hc3R2bmV0LmNvbSIsIlVzZXItQWdlbnQiOiJNb3ppbGxhXC81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTJfMSkgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvNTYuMC4yOTI0Ljg3IFNhZmFyaVwvNTM3LjM2In0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="澳门" ,澳门莲花
+group-titleName="澳门" ,澳门莲花
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8#eyJIb3N0IjoibGl2ZS1ydG1wLmxvdHVzdHYuZHVvbGFpYm8uY24iLCJVc2VyLUFnZW50IjoiRGFsdmlrXC8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgNi4wLjE7IE11TXUgQnVpbGRcL1Y0MTdJUikifQ==
-#EXTINF:-1 group-titleName="音乐" group-titleName="澳门" ,澳门资讯
+group-titleName="澳门" ,澳门资讯
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8#eyJIb3N0IjoibGl2ZTMudGRtLmNvbS5tbzoxOTM1IiwiVXNlci1BZ2VudCI6IkRhbHZpa1wvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDYuMC4xOyBNdU11IEJ1aWxkXC9WNDE3SVIpIn0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="澳门" ,澳门资讯
+group-titleName="澳门" ,澳门资讯
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8#eyJIb3N0IjoibGl2ZTQudGRtLmNvbS5tbyIsIlVzZXItQWdlbnQiOiJEYWx2aWtcLzIuMS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMTsgTXVNdSBCdWlsZFwvVjQxN0lSKSJ9
-#EXTINF:-1 group-titleName="音乐" group-titleName="澳门" ,澳亚卫视
+group-titleName="澳门" ,澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8#eyJSZWZlcmVyIjoiaHR0cDpcL1wvaXB0djE4Ni5jb21cLz9hY3Q9cGxheSZ0b2tlbj02YWU4NWEwNzIwM2IwNmQ3YzU4YWIzODYwYzMzMDg5NyZ0aWQ9Z3QmaWQ9MjQiLCJIb3N0Ijoic3RyZWFtLm1hc3R2bmV0LmNvbSIsIlVzZXItQWdlbnQiOiJNb3ppbGxhXC81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTJfMSkgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvNTYuMC4yOTI0Ljg3IFNhZmFyaVwvNTM3LjM2In0=
-#EXTINF:-1 group-titleName="音乐" group-titleName="澳门" ,澳门卫视
+group-titleName="澳门" ,澳门卫视
 http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD TV1
+group-titleName="台湾" ,GOOD TV1
 http://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD TV2
+group-titleName="台湾" ,GOOD TV2
 http://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,奇妙电视
+group-titleName="台湾" ,奇妙电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,优视频道
+group-titleName="台湾" ,优视频道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD TV6
+group-titleName="台湾" ,GOOD TV6
 http://live.streamingfast.net/osmflivech6.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD TV8
+group-titleName="台湾" ,GOOD TV8
 http://live.streamingfast.net/osmflivech8.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD TV7
+group-titleName="台湾" ,GOOD TV7
 http://live.streamingfast.net/osmflivech7.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD TV10
+group-titleName="台湾" ,GOOD TV10
 http://live.streamingfast.net/osmflivech10.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,好消息台2
+group-titleName="台湾" ,好消息台2
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,好消息台1
+group-titleName="台湾" ,好消息台1
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,好消息台3
+group-titleName="台湾" ,好消息台3
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD卡通
+group-titleName="台湾" ,GOOD卡通
 http://live.streamingfast.net/osmflivech40.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD烤箱读书会
+group-titleName="台湾" ,GOOD烤箱读书会
 http://live.streamingfast.net/osmflivech44.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD生活台
+group-titleName="台湾" ,GOOD生活台
 http://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD真情部落格
+group-titleName="台湾" ,GOOD真情部落格
 http://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD共享观点
+group-titleName="台湾" ,GOOD共享观点
 http://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD爱+好医生
+group-titleName="台湾" ,GOOD爱+好医生
 http://live.streamingfast.net/osmflivech9.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD美食旅游台
+group-titleName="台湾" ,GOOD美食旅游台
 http://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOOD健康新煮流
+group-titleName="台湾" ,GOOD健康新煮流
 http://live.streamingfast.net/osmflivech13.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,儒释道网络电视台
+group-titleName="台湾" ,儒释道网络电视台
 http://amtbsg.cloudapp.net/liveedge/_definst_/cult/chunklist_w856981860.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,悟道法师演讲直播台
+group-titleName="台湾" ,悟道法师演讲直播台
 http://tw3.hwadzan.com/liveedge/_definst_/wdmaster/chunklist_w29989318.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,生命电视
+group-titleName="台湾" ,生命电视
 http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,华藏卫视
+group-titleName="台湾" ,华藏卫视
 http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,博斯魅力
+group-titleName="台湾" ,博斯魅力
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,台湾番薯台
+group-titleName="台湾" ,台湾番薯台
 http://210.209.3.1:80/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&size=720X480
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净宗学院网络直播
+group-titleName="台湾" ,净宗学院网络直播
 http://hls.ciguang.tv/hdtv/video.m3u8?auth_key=1557799219-0-0-4c865ccdb89d8eb4cbe54be628c127d9
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,孝廉电视台
+group-titleName="台湾" ,孝廉电视台
 http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,孝廉电视台
+group-titleName="台湾" ,孝廉电视台
 http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,上德电视台
+group-titleName="台湾" ,上德电视台
 http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,上德电视台
+group-titleName="台湾" ,上德电视台
 http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/chunklist_w250050579.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,佛卫慈悲台
+group-titleName="台湾" ,佛卫慈悲台
 http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,佛卫慈悲台
+group-titleName="台湾" ,佛卫慈悲台
 http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,番薯电视台
+group-titleName="台湾" ,番薯电视台
 http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&size=720X480
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,生命电视台
+group-titleName="台湾" ,生命电视台
 http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1280X720
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,美国创世电视540P
+group-titleName="台湾" ,美国创世电视540P
 https://cdn-us.deepcore.online/hlsme/ctv_us_540.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOODTV好消息1综合台
+group-titleName="台湾" ,GOODTV好消息1综合台
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOODTV好消息12生活台
+group-titleName="台湾" ,GOODTV好消息12生活台
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch12-3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOODTV好消息14美食旅游台
+group-titleName="台湾" ,GOODTV好消息14美食旅游台
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,GOODTV好消息45卡通频道
+group-titleName="台湾" ,GOODTV好消息45卡通频道
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch45-3.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,人间卫视
+group-titleName="台湾" ,人间卫视
 http://54.64.23.79:1935/live/vod/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,人间卫视
+group-titleName="台湾" ,人间卫视
 http://54.64.23.79:1935/live/vod/chunklist_w2045233730.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,人间卫视
+group-titleName="台湾" ,人间卫视
 http://54.64.23.79:1935/live/vod/chunklist_w226782990.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,人间卫视
+group-titleName="台湾" ,人间卫视
 http://54.64.23.79:1935/live/vod/chunklist_w1420404598.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,华藏卫视
+group-titleName="台湾" ,华藏卫视
 http://118.163.88.61:1935/hwazanlivetv/live.stream/chunklist_w119159473.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,华藏卫视
+group-titleName="台湾" ,华藏卫视
 http://118.163.88.61:1935/hwazanlivetv/live.stream/chunklist_w1204199278.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,生命电视台
+group-titleName="台湾" ,生命电视台
 http://210.209.3.1/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1280X720
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经直播台(台湾线路)
+group-titleName="台湾" ,净空老法师讲经直播台(台湾线路)
 https://tw1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经直播台(大陆线路)
+group-titleName="台湾" ,净空老法师讲经直播台(大陆线路)
 https://tw3.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经直播台(欧美线路)
+group-titleName="台湾" ,净空老法师讲经直播台(欧美线路)
 https://de1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经直播台(香港线路)
+group-titleName="台湾" ,净空老法师讲经直播台(香港线路)
 https://hk1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经直播台(新马线路)
+group-titleName="台湾" ,净空老法师讲经直播台(新马线路)
 https://sg1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经(台湾线路)
+group-titleName="台湾" ,净空老法师讲经(台湾线路)
 https://hk1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经(大陆线路)
+group-titleName="台湾" ,净空老法师讲经(大陆线路)
 https://tw3.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经(欧美线路)
+group-titleName="台湾" ,净空老法师讲经(欧美线路)
 https://de1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经(香港线路)
+group-titleName="台湾" ,净空老法师讲经(香港线路)
 https://hk2.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经(新马线路)
+group-titleName="台湾" ,净空老法师讲经(新马线路)
 https://sg1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经
+group-titleName="台湾" ,净空老法师讲经
 http://amtbsg.cloudapp.net/liveedge/_definst_/livetv/chunklist_w660449818.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经
+group-titleName="台湾" ,净空老法师讲经
 http://amtbsg.cloudapp.net/redirect/liveedge/_definst_/livetv/chunklist_w872255516.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经
+group-titleName="台湾" ,净空老法师讲经
 http://amtbsg.cloudapp.net/liveedge/_definst_/livetv/chunklist_w577962608.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,净空老法师讲经
+group-titleName="台湾" ,净空老法师讲经
 http://amtbsg.cloudapp.net/liveedge/_definst_/yueyu/chunklist_w1123208318.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,悟道法师讲经(台湾线路)
+group-titleName="台湾" ,悟道法师讲经(台湾线路)
 https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,悟道法师讲经(大陆线路)
+group-titleName="台湾" ,悟道法师讲经(大陆线路)
 https://tw3.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,悟道法师讲经(欧美线路)
+group-titleName="台湾" ,悟道法师讲经(欧美线路)
 https://de1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,悟道法师讲经(香港线路)
+group-titleName="台湾" ,悟道法师讲经(香港线路)
 https://hk2.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,悟道法师讲经(新马线路)
+group-titleName="台湾" ,悟道法师讲经(新马线路)
 https://sg1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,多元文化(台湾线路)
+group-titleName="台湾" ,多元文化(台湾线路)
 https://tw2.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,多元文化(大陆线路)
+group-titleName="台湾" ,多元文化(大陆线路)
 https://tw3.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,多元文化(欧美线路)
+group-titleName="台湾" ,多元文化(欧美线路)
 https://de1.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,多元文化(香港线路)
+group-titleName="台湾" ,多元文化(香港线路)
 https://hk2.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,多元文化(新马线路)
+group-titleName="台湾" ,多元文化(新马线路)
 https://sg1.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,繫念法會(台湾线路)
+group-titleName="台湾" ,繫念法會(台湾线路)
 https://tw1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,繫念法會(大陆线路)
+group-titleName="台湾" ,繫念法會(大陆线路)
 https://tw3.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,繫念法會(欧美线路)
+group-titleName="台湾" ,繫念法會(欧美线路)
 https://de1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,繫念法會(香港线路)
+group-titleName="台湾" ,繫念法會(香港线路)
 https://hk1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,繫念法會(新马线路)
+group-titleName="台湾" ,繫念法會(新马线路)
 https://sg1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,网络念佛堂(台湾线路)
+group-titleName="台湾" ,网络念佛堂(台湾线路)
 https://tw1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,网络念佛堂(大陆线路)
+group-titleName="台湾" ,网络念佛堂(大陆线路)
 https://tw3.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,网络念佛堂(欧美线路)
+group-titleName="台湾" ,网络念佛堂(欧美线路)
 https://de1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,网络念佛堂(香港线路)
+group-titleName="台湾" ,网络念佛堂(香港线路)
 https://hk2.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,网络念佛堂(新马线路)
+group-titleName="台湾" ,网络念佛堂(新马线路)
 https://sg1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,东森洋片
+group-titleName="台湾" ,东森洋片
 http://111.13.111.197/122.146.68.116:4010/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,東森洋片
+group-titleName="台湾" ,東森洋片
 http://113.196.177.81:8889/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,CNEX 紀實頻道
+group-titleName="台湾" ,CNEX 紀實頻道
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,卡通頻道
+group-titleName="台湾" ,卡通頻道
 http://113.196.177.81:8887/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,迪斯尼动画
+group-titleName="台湾" ,迪斯尼动画
 http://113.196.177.81:8894/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,探索频道
+group-titleName="台湾" ,探索频道
 http://122.146.68.116:4046/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,東森戲劇
+group-titleName="台湾" ,東森戲劇
 http://113.196.177.81:8910/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,東森電影
+group-titleName="台湾" ,東森電影
 http://113.196.177.81:8893/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,東森幼幼
+group-titleName="台湾" ,東森幼幼
 http://220.158.149.14:9999/live/TV00000000000000000076@HHZT
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,FX 中文電影臺
+group-titleName="台湾" ,FX 中文電影臺
 http://113.196.177.81:8885/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,國家地理
+group-titleName="台湾" ,國家地理
 http://113.196.177.81:8890/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,好萊塢電影
+group-titleName="台湾" ,好萊塢電影
 http://125.227.210.37:8909/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,HBO中文電影 HD
+group-titleName="台湾" ,HBO中文電影 HD
 http://125.227.210.37:8895/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,空中英語教室
+group-titleName="台湾" ,空中英語教室
 http://220.158.149.14:9999/live/TV00000000000000000077@HHZT
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,龍華電影
+group-titleName="台湾" ,龍華電影
 http://ms006.happytv.com.tw/live/xm80UCshgLnL4f0y/index.m3u8?token=c9JZiuKdZjWetb9TuWFZvg&time=1554530036919
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,龍華偶像
+group-titleName="台湾" ,龍華偶像
 http://ms006.happytv.com.tw/live/jluCtnqIsVG31tpb/index.m3u8?token=ju530-kHHWuKLJKGDmJB2A&time=1554530150195
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,龍華日韓
+group-titleName="台湾" ,龍華日韓
 http://ms006.happytv.com.tw/live/51puauUecCarOzug/index.m3u8?token=sXdnr7TrwoteozOuSE0VgQ&time=1554530058242
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,旅遊生活
+group-titleName="台湾" ,旅遊生活
 http://125.227.210.37:8891/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,年代MUCH
+group-titleName="台湾" ,年代MUCH
 http://125.227.210.37:8908/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,唯心頻道
+group-titleName="台湾" ,唯心頻道
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,探索頻道
+group-titleName="台湾" ,探索頻道
 http://122.146.68.116:4046/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,TVBS歡樂
+group-titleName="台湾" ,TVBS歡樂
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,緯來日本
+group-titleName="台湾" ,緯來日本
 http://125.227.210.37:8884/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,緯來體育
+group-titleName="台湾" ,緯來體育
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,衛視中文臺
+group-titleName="台湾" ,衛視中文臺
 http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,衛視西片臺
+group-titleName="台湾" ,衛視西片臺
 http://122.146.68.116:4016/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,中天綜合
+group-titleName="台湾" ,中天綜合
 http://125.227.210.37:8888/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,中天娛樂
+group-titleName="台湾" ,中天娛樂
 http://61.216.10.122:4007/VideoInput/play.ts
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,靖天欢乐HD
+group-titleName="台湾" ,靖天欢乐HD
 http://61.58.60.230:9319/live/201.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,靖天资讯HD
+group-titleName="台湾" ,靖天资讯HD
 http://61.58.60.230:9319/live/202.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,靖天娱乐HD
+group-titleName="台湾" ,靖天娱乐HD
 http://61.58.60.230:9319/live/204.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,靖洋戏剧HD
+group-titleName="台湾" ,靖洋戏剧HD
 http://61.58.60.230:9319/live/203.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,靖天国际HD
+group-titleName="台湾" ,靖天国际HD
 http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,靖洋卡通HD
+group-titleName="台湾" ,靖洋卡通HD
 http://61.58.60.230:9319/live/206.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,靖天卡通HD
+group-titleName="台湾" ,靖天卡通HD
 http://61.58.60.230:9319/live/207.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,靖天日本HD
+group-titleName="台湾" ,靖天日本HD
 http://61.58.60.230:9319/live/243.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,靖天映画HD
+group-titleName="台湾" ,靖天映画HD
 http://61.58.60.230:9319/live/244.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,年代新闻台
+group-titleName="台湾" ,年代新闻台
 http://qipo.live:8080/live/yfzgxvMtLg/2Giim7ONXA/206302.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,三立新闻台HD
+group-titleName="台湾" ,三立新闻台HD
 http://qipo.live:8080/live/g5YG3LH752/eese6rmMO0/206275.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,星卫娱乐台
+group-titleName="台湾" ,星卫娱乐台
 http://qipo.live:8080/live/g5YG3LH752/eese6rmMO0/206298.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,卫视中文台HD
+group-titleName="台湾" ,卫视中文台HD
 http://qipo.live:8080/live/g5YG3LH752/eese6rmMO0/206299.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,TVBS欢乐台HD
+group-titleName="台湾" ,TVBS欢乐台HD
 http://qipo.live:8080/live/pk10291/579365/206255.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,三立都会台HD
+group-titleName="台湾" ,三立都会台HD
 http://qipo.live:8080/live/pk10291/579365/206273.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,中视HD
+group-titleName="台湾" ,中视HD
 http://qipo.live:8080/live/l9qlOfr6M1/aNv01MpZ9z/206250.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,中视经典
+group-titleName="台湾" ,中视经典
 http://qipo.live:8080/live/yfzgxvMtLg/2Giim7ONXA/206251.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,公视HD
+group-titleName="台湾" ,公视HD
 http://qipo.live:8080/live/l9qlOfr6M1/aNv01MpZ9z/206249.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,纬来综合HD
+group-titleName="台湾" ,纬来综合HD
 http://qipo.live:8080/live/yfzgxvMtLg/2Giim7ONXA/206270.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,寰宇综合HD
+group-titleName="台湾" ,寰宇综合HD
 http://qipo.live:8080/live/KS1g83x9IJ/20rS9COFgZ/206305.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,中天亚洲台
+group-titleName="台湾" ,中天亚洲台
 http://qipo.live:8080/live/yfzgxvMtLg/2Giim7ONXA/206259.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,中天综合 HD
+group-titleName="台湾" ,中天综合 HD
 http://qipo.live:8080/live/l9qlOfr6M1/aNv01MpZ9z/206257.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,大愛一台HD
+group-titleName="台湾" ,大愛一台HD
 https://wowzaprodhd44-lh.akamaihd.net/i/953b6364_1@580145/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,大愛一台HD
+group-titleName="台湾" ,大愛一台HD
 https://wowzaprodhd44-lh.akamaihd.net/i/953b6364_1@580145/index_2728_av-p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,大愛二台HD
+group-titleName="台湾" ,大愛二台HD
 https://wowzaprodhd17-lh.akamaihd.net/i/46021e1e_1@576535/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,大愛二台HD
+group-titleName="台湾" ,大愛二台HD
 https://wowzaprodhd17-lh.akamaihd.net/i/46021e1e_1@576535/index_2728_av-p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,大愛海外台HD
+group-titleName="台湾" ,大愛海外台HD
 https://wowzaprodhd28-lh.akamaihd.net/i/a74135ef_1@577349/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="台湾" ,大愛海外台HD
+group-titleName="台湾" ,大愛海外台HD
 https://wowzaprodhd28-lh.akamaihd.net/i/a74135ef_1@577349/index_2728_av-p.m3u8
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韓國EBS plus 1
+group-titleName="韩国" ,韓國EBS plus 1
 http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韓國TV CHOSUNHD
+group-titleName="韩国" ,韓國TV CHOSUNHD
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韓國EBS SD
+group-titleName="韩国" ,韓國EBS SD
 http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韓國EBS 2
+group-titleName="韩国" ,韓國EBS 2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韓國EBS plus 2
+group-titleName="韩国" ,韓國EBS plus 2
 http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韓國G1 SBS
+group-titleName="韩国" ,韓國G1 SBS
 http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韓國EBS Kids
+group-titleName="韩国" ,韓國EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韓國EBS e
+group-titleName="韩国" ,韓國EBS e
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韩国阿里郎
+group-titleName="韩国" ,韩国阿里郎
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韩国阿里郎
+group-titleName="韩国" ,韩国阿里郎
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b928000_sleng.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韩国EBS-1
+group-titleName="韩国" ,韩国EBS-1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韩国EBS-1
+group-titleName="韩国" ,韩国EBS-1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韩国EBS-2
+group-titleName="韩国" ,韩国EBS-2
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韩国TV-chosun
+group-titleName="韩国" ,韩国TV-chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韩国TV-chosun
+group-titleName="韩国" ,韩国TV-chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韩国CBS
+group-titleName="韩国" ,韩国CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韩国MBC MAX
+group-titleName="韩国" ,韩国MBC MAX
 http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韩国KoreaTV
+group-titleName="韩国" ,韩国KoreaTV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,韩国GoodTV
+group-titleName="韩国" ,韩国GoodTV
 http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,TVN HD
+group-titleName="韩国" ,TVN HD
 http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,KBS2 HD
+group-titleName="韩国" ,KBS2 HD
 http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,K PLUS HD
+group-titleName="韩国" ,K PLUS HD
 http://45.126.83.51/uq2663/h/h08/01.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="韩国" ,MNET
+group-titleName="韩国" ,MNET
 http://198.144.156.92:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.M3U8
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日-家庭劇場
+group-titleName="日本" ,日-家庭劇場
 http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本NHK WORLD
+group-titleName="日本" ,日本NHK WORLD
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日-衛星劇場
+group-titleName="日本" ,日-衛星劇場
 http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本映畫
+group-titleName="日本" ,日本映畫
 http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本Japanet Channel DX
+group-titleName="日本" ,日本Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本Japanet Channel DX
+group-titleName="日本" ,日本Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本映畫
+group-titleName="日本" ,日本映畫
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本QVC Japan
+group-titleName="日本" ,日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本频道1
+group-titleName="日本" ,日本频道1
 http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本频道2
+group-titleName="日本" ,日本频道2
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本衛星劇場
+group-titleName="日本" ,日本衛星劇場
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本频道5
+group-titleName="日本" ,日本频道5
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本ntv knews
+group-titleName="日本" ,日本ntv knews
 http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本NHK World
+group-titleName="日本" ,日本NHK World
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_2100.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本NHK World
+group-titleName="日本" ,日本NHK World
 http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,NHK华语视界
+group-titleName="日本" ,NHK华语视界
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/live_zh.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本Japan News 24
+group-titleName="日本" ,日本Japan News 24
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本News24
+group-titleName="日本" ,日本News24
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本历史频道HD
+group-titleName="日本" ,日本历史频道HD
 http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本CINEMA 洋片
+group-titleName="日本" ,日本CINEMA 洋片
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本朝日台
+group-titleName="日本" ,日本朝日台
 http://192.240.127.34:1935/live/cs19.stream/play.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本NHK World
+group-titleName="日本" ,日本NHK World
 https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本购物频道Japanet DX Channel
+group-titleName="日本" ,日本购物频道Japanet DX Channel
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本動畫ANIPLUS HD
+group-titleName="日本" ,日本動畫ANIPLUS HD
 http://45.126.83.51/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,日本WOWOW MOVIES
+group-titleName="日本" ,日本WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,NHK WORLD
+group-titleName="日本" ,NHK WORLD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/domestic/263942/live_stv_s.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="日本" ,NHK World
+group-titleName="日本" ,NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国中文电视
+group-titleName="美国" ,美国中文电视
 http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国ABC
+group-titleName="美国" ,美国ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国ABC News
+group-titleName="美国" ,美国ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国NBC
+group-titleName="美国" ,美国NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国CBS
+group-titleName="美国" ,美国CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国CBS
+group-titleName="美国" ,美国CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国CBS News 1
+group-titleName="美国" ,美国CBS News 1
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国CBS News 1
+group-titleName="美国" ,美国CBS News 1
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-b.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国CBS News 1
+group-titleName="美国" ,美国CBS News 1
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国CMC音乐频道
+group-titleName="美国" ,美国CMC音乐频道
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国MTV
+group-titleName="美国" ,美国MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国综艺
+group-titleName="美国" ,美国综艺
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国彭博财经Bloomberg TV
+group-titleName="美国" ,美国彭博财经Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国彭博财经Bloomberg TV
+group-titleName="美国" ,美国彭博财经Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国彭博财经Bloomberg
+group-titleName="美国" ,美国彭博财经Bloomberg
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国舒缓频道Silence TV World HD
+group-titleName="美国" ,美国舒缓频道Silence TV World HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Music Choice TV HD音乐频道
+group-titleName="美国" ,美国Music Choice TV HD音乐频道
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国乡村音乐频道The Country Network
+group-titleName="美国" ,美国乡村音乐频道The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Beach TV - Panama City
+group-titleName="美国" ,美国Beach TV - Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Beach TV - Pawleys Island
+group-titleName="美国" ,美国Beach TV - Pawleys Island
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Beach TV HD
+group-titleName="美国" ,美国Beach TV HD
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chunklist_w1824157812.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Buffalo TV
+group-titleName="美国" ,美国Buffalo TV
 http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Byu TV HD
+group-titleName="美国" ,美国Byu TV HD
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国中国环球电视CGTN
+group-titleName="美国" ,美国中国环球电视CGTN
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国中国环球电视CGTN
+group-titleName="美国" ,美国中国环球电视CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国经典艺术展播电视频道Classic Arts Showcas
+group-titleName="美国" ,美国经典艺术展播电视频道Classic Arts Showcas
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国众议院House of Representatives
+group-titleName="美国" ,美国众议院House of Representatives
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国职业棒球大联盟MLB Network
+group-titleName="美国" ,美国职业棒球大联盟MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国佛罗里达州电视台The Florida Channel
+group-titleName="美国" ,美国佛罗里达州电视台The Florida Channel
 http://wowzaprod4-i.akamaihd.net/hls/live/254057/persisTarget_2443575804_tvweb1_247_480p/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国WVIT 30 News(康涅狄格州哈特福德)
+group-titleName="美国" ,美国WVIT 30 News(康涅狄格州哈特福德)
 http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Newsmax TV
+group-titleName="美国" ,美国Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Orange TV
+group-titleName="美国" ,美国Orange TV
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国360 North
+group-titleName="美国" ,美国360 North
 http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Bowie TV
+group-titleName="美国" ,美国Bowie TV
 http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Denver 8 TV
+group-titleName="美国" ,美国Denver 8 TV
 http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Fox News Talk Radio
+group-titleName="美国" ,美国Fox News Talk Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Jewelry Television
+group-titleName="美国" ,美国Jewelry Television
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Red Bull TV SD
+group-titleName="美国" ,美国Red Bull TV SD
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国VTV Channel 6 Colorado
+group-titleName="美国" ,美国VTV Channel 6 Colorado
 http://hls.ksl.com/t/strata/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国本土WGN 9 News (Chicago)
+group-titleName="美国" ,美国本土WGN 9 News (Chicago)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国本土CBS 4 News (Indianapolis)
+group-titleName="美国" ,美国本土CBS 4 News (Indianapolis)
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国本土Channel 11 News WPXI (Pittsb
+group-titleName="美国" ,美国本土Channel 11 News WPXI (Pittsb
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国哥伦比亚特区网络电视District of Columbia
+group-titleName="美国" ,美国哥伦比亚特区网络电视District of Columbia
 http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国自由之声Free Speech TV
+group-titleName="美国" ,美国自由之声Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国马里兰州绿带城Greenbelt TV
+group-titleName="美国" ,美国马里兰州绿带城Greenbelt TV
 http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国德克萨斯大学奥斯汀分校学生电视台TSTV
+group-titleName="美国" ,美国德克萨斯大学奥斯汀分校学生电视台TSTV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国芝加哥WGN9频道HD
+group-titleName="美国" ,美国芝加哥WGN9频道HD
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Atlanta Channel
+group-titleName="美国" ,美国Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国佛罗里达州Key TV
+group-titleName="美国" ,美国佛罗里达州Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国明尼苏达州Kool TV
+group-titleName="美国" ,美国明尼苏达州Kool TV
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国路易斯安那州新奥尔良New Orleans TV
+group-titleName="美国" ,美国路易斯安那州新奥尔良New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国Newsmax TV
+group-titleName="美国" ,美国Newsmax TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国宾夕法尼亚州威彻斯特QVC购物
+group-titleName="美国" ,美国宾夕法尼亚州威彻斯特QVC购物
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国汽车频道Rev'n (New!)
+group-titleName="美国" ,美国汽车频道Rev'n (New!)
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国华盛顿公共事务网络频道TVW
+group-titleName="美国" ,美国华盛顿公共事务网络频道TVW
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国国家气象频道The Weather Channel
+group-titleName="美国" ,美国国家气象频道The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国国家天气频道Weather Nation
+group-titleName="美国" ,美国国家天气频道Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国King5 News (华盛顿州西雅图)
+group-titleName="美国" ,美国King5 News (华盛顿州西雅图)
 http://king-lh.akamaihd.net/i/KING_Shows_1@77350/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国LifevisionTV
+group-titleName="美国" ,美国LifevisionTV
 http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国ESPN 2体育频道
+group-titleName="美国" ,美国ESPN 2体育频道
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国SIDEWALKS HD娱乐频道
+group-titleName="美国" ,美国SIDEWALKS HD娱乐频道
 http://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国福音派基督教电视频道RadiantTV
+group-titleName="美国" ,美国福音派基督教电视频道RadiantTV
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国联邦资助Martí TV(西班牙语)
+group-titleName="美国" ,美国联邦资助Martí TV(西班牙语)
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国购物QVC TV HD USA
+group-titleName="美国" ,美国购物QVC TV HD USA
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/chunklist_b4192000.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国购物QVC2 TV HD USA
+group-titleName="美国" ,美国购物QVC2 TV HD USA
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/chunklist_b4192000.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国购物QVC Beauty IQ TV HD USA
+group-titleName="美国" ,美国购物QVC Beauty IQ TV HD USA
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/chunklist_b4192000.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国购物QVC TV HD UK
+group-titleName="美国" ,美国购物QVC TV HD UK
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国购物QVC Beauty TV HD UK
+group-titleName="美国" ,美国购物QVC Beauty TV HD UK
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国彭博欧洲
+group-titleName="美国" ,美国彭博欧洲
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国动物星球频道Animal Planet (Opt-1)
+group-titleName="美国" ,美国动物星球频道Animal Planet (Opt-1)
 http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国动物星球频道Animal Planet (Opt-2)
+group-titleName="美国" ,美国动物星球频道Animal Planet (Opt-2)
 http://80.80.160.168/live/1/500000/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美国福克斯喜剧频道Fox Comedy (亚洲)
+group-titleName="美国" ,美国福克斯喜剧频道Fox Comedy (亚洲)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,FOX News Channel
+group-titleName="美国" ,FOX News Channel
 http://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,MSNBC
+group-titleName="美国" ,MSNBC
 http://1259541102.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,CNN USA
+group-titleName="美国" ,CNN USA
 http://1259541102.rsc.cdn77.org/LS-ATL-54548-9/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,CNN
+group-titleName="美国" ,CNN
 http://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,美南國際電視
+group-titleName="美国" ,美南國際電視
 http://cdn71.liveonlineservices.com/hls/stv.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,VOA卫视(中文)
+group-titleName="美国" ,VOA卫视(中文)
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,Fox Business
+group-titleName="美国" ,Fox Business
 https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,Bloomberg (US)
+group-titleName="美国" ,Bloomberg (US)
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,Bloomberg
+group-titleName="美国" ,Bloomberg
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,Bloomberg TV (Asia|EN)
+group-titleName="美国" ,Bloomberg TV (Asia|EN)
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,CBSN
+group-titleName="美国" ,CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,CBSN
+group-titleName="美国" ,CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?isnpLk=10&rebase=on
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,Fox 5 Washington DC (WTTG-TV)
+group-titleName="美国" ,Fox 5 Washington DC (WTTG-TV)
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,NewsWest 9 KWES (FOX)
+group-titleName="美国" ,NewsWest 9 KWES (FOX)
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,RED BULL TV
+group-titleName="美国" ,RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,Red Bull TV
+group-titleName="美国" ,Red Bull TV
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,Red Bull TV (Opt-1)
+group-titleName="美国" ,Red Bull TV (Opt-1)
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,Cooking Channel
+group-titleName="美国" ,Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,AMERICAN HORRORS [288p]
+group-titleName="美国" ,AMERICAN HORRORS [288p]
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,RETRO TV
+group-titleName="美国" ,RETRO TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,SCIENCE CHANNEL
+group-titleName="美国" ,SCIENCE CHANNEL
 http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,SHOWTIME
+group-titleName="美国" ,SHOWTIME
 http://80.80.160.168/live/7/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,Showtime
+group-titleName="美国" ,Showtime
 http://80.80.160.168/live/7/2500000/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,Free Speech TV
+group-titleName="美国" ,Free Speech TV
 http://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,TX TV (a)
+group-titleName="美国" ,TX TV (a)
 http://oflash-alt.dfw.swagit.com/live/dallastx/smil:hd-16x9-1-a/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="美国" ,TX TV (b)
+group-titleName="美国" ,TX TV (b)
 http://oflash-alt.dfw.swagit.com/live/dallastx/smil:hd-16x9-1-b/chunklist.m3u8
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,英国sky TG24
+group-titleName="国际" ,英国sky TG24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,韩国EBSeHD
+group-titleName="国际" ,韩国EBSeHD
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,美国CBSN News
+group-titleName="国际" ,美国CBSN News
 https://www.cbsnews.com/common/video/dai_prod.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,NHK综合台
+group-titleName="国际" ,NHK综合台
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,韩国WFCHD
+group-titleName="国际" ,韩国WFCHD
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,半岛电视台
+group-titleName="国际" ,半岛电视台
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,奥地利KRALHD
+group-titleName="国际" ,奥地利KRALHD
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,JUSTMIN TV
+group-titleName="国际" ,JUSTMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,DW
+group-titleName="国际" ,DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,Bloomberg
+group-titleName="国际" ,Bloomberg
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,V-O-A
+group-titleName="国际" ,V-O-A
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,澳洲 ABC News
+group-titleName="国际" ,澳洲 ABC News
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,美国全国步枪协会频道 NRATV
+group-titleName="国际" ,美国全国步枪协会频道 NRATV
 http://stream1.nra.tv/nratv/ngrp:nratvall/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大有线电视公共事务频道CPAC
+group-titleName="国际" ,加拿大有线电视公共事务频道CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大广播公司法语频道ICI TV
+group-titleName="国际" ,加拿大广播公司法语频道ICI TV
 http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大CBC News (VOD)
+group-titleName="国际" ,加拿大CBC News (VOD)
 http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大CTV News Live 1
+group-titleName="国际" ,加拿大CTV News Live 1
 http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大CTV News Live 3
+group-titleName="国际" ,加拿大CTV News Live 3
 http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大CTV News Live 4
+group-titleName="国际" ,加拿大CTV News Live 4
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大Space
+group-titleName="国际" ,加拿大Space
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大The Shopping Channel
+group-titleName="国际" ,加拿大The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大魁北克省议会电视台Assemblée Nationale
+group-titleName="国际" ,加拿大魁北克省议会电视台Assemblée Nationale
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大法语魁北克省蒙特利尔教育独立电视台Canal Savoir
+group-titleName="国际" ,加拿大法语魁北克省蒙特利尔教育独立电视台Canal Savoir
 http://stream.canalsavoir.tv/livestream/stream.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大纽芬兰与拉布拉多省ntv Newfoundland
+group-titleName="国际" ,加拿大纽芬兰与拉布拉多省ntv Newfoundland
 http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大CTV News Live Events 2 | HD
+group-titleName="国际" ,加拿大CTV News Live Events 2 | HD
 http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大青少年娱乐频道Fresh TV
+group-titleName="国际" ,加拿大青少年娱乐频道Fresh TV
 http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加拿大BBC Toronto印第安频道
+group-titleName="国际" ,加拿大BBC Toronto印第安频道
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,英国SKY News
+group-titleName="国际" ,英国SKY News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,英国Jewellery Maker
+group-titleName="国际" ,英国Jewellery Maker
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,英国Arise News Network
+group-titleName="国际" ,英国Arise News Network
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,英国Ideal World
+group-titleName="国际" ,英国Ideal World
 https://live-isd.simplestreamcdn.com/idealworld/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,泰国SUVARNABHUMI
+group-titleName="国际" ,泰国SUVARNABHUMI
 http://203.146.129.233:1935/live/mp4:suwan/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,宝莱坞MBC
+group-titleName="国际" ,宝莱坞MBC
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国France 24(英语)
+group-titleName="国际" ,法国France 24(英语)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国France 24(英语)
+group-titleName="国际" ,法国France 24(英语)
 http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国国家24频道Francophonie 24
+group-titleName="国际" ,法国国家24频道Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Gong TV
+group-titleName="国际" ,法国Gong TV
 http://51.254.215.79/appflux/gong/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国法语天主教电视频道KTO
+group-titleName="国际" ,法国法语天主教电视频道KTO
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Bblack! Africa
+group-titleName="国际" ,法国Bblack! Africa
 http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Bblack! Caribbean
+group-titleName="国际" ,法国Bblack! Caribbean
 http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国CGTN
+group-titleName="国际" ,法国CGTN
 http://live.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Gong
+group-titleName="国际" ,法国Gong
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国TV5 Monde Info (Opt-2)
+group-titleName="国际" ,法国TV5 Monde Info (Opt-2)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国BX1
+group-titleName="国际" ,法国BX1
 http://149.202.81.107:1935/stream/live/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Monaco Info
+group-titleName="国际" ,法国Monaco Info
 http://46.105.34.238/liveevent.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国notélé
+group-titleName="国际" ,法国notélé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Tébéo
+group-titleName="国际" ,法国Tébéo
 http://live2.awedia.com/hls/tebeo.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Beblack classik黑人经典音乐频道
+group-titleName="国际" ,法国Beblack classik黑人经典音乐频道
 http://ec.playmedia.fr/beblack/classik/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Nago TV
+group-titleName="国际" ,法国Nago TV
 http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing tv
+group-titleName="国际" ,法国Djing tv
 https://www.djing.com/tv/28346-04.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing dance
+group-titleName="国际" ,法国Djing dance
 https://www.djing.com/tv/d-28346-04.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing classics
+group-titleName="国际" ,法国Djing classics
 https://www.djing.com/tv/i-28346-04.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing animation
+group-titleName="国际" ,法国Djing animation
 https://www.djing.com/tv/a-28346-04.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing electro rock
+group-titleName="国际" ,法国Djing electro rock
 https://www.djing.com/tv/s-28346-05-electro-rock.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing underground
+group-titleName="国际" ,法国Djing underground
 https://www.djing.com/tv/u-28346-04.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing summer vibes
+group-titleName="国际" ,法国Djing summer vibes
 https://www.djing.com/tv/s-28346-05-summer-vibes.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing french touch
+group-titleName="国际" ,法国Djing french touch
 https://www.djing.com/tv/s-28346-05-french-touch.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing kardoke
+group-titleName="国际" ,法国Djing kardoke
 https://www.djing.com/tv/k-28346-04.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing hedonist
+group-titleName="国际" ,法国Djing hedonist
 https://www.djing.com/tv/s-28346-05-hedonist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing TV
+group-titleName="国际" ,法国Djing TV
 http://www.djing.com/tv/27911-05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing TV Frankrijk
+group-titleName="国际" ,法国Djing TV Frankrijk
 http://www.djing.com/tv/05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing Animation
+group-titleName="国际" ,法国Djing Animation
 http://www.djing.com/tv/a-27911-05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing Classic
+group-titleName="国际" ,法国Djing Classic
 http://www.djing.com/tv/i-27911-05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing Dance Floor
+group-titleName="国际" ,法国Djing Dance Floor
 http://www.djing.com/tv/d-27911-05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing E-Music HD
+group-titleName="国际" ,法国Djing E-Music HD
 http://www.djing.com/tv/04.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing Electro Rock
+group-titleName="国际" ,法国Djing Electro Rock
 http://www.djing.com/tv/s-27911-05-electro-rock.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing French Touch
+group-titleName="国际" ,法国Djing French Touch
 http://www.djing.com/tv/s-27911-05-french-touch.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing Hedonist
+group-titleName="国际" ,法国Djing Hedonist
 http://www.djing.com/tv/s-27911-05-hedonist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing HotFrankrijk
+group-titleName="国际" ,法国Djing HotFrankrijk
 http://www.djing.com/tv/h-05-fta.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing Karaoke
+group-titleName="国际" ,法国Djing Karaoke
 http://www.djing.com/tv/k-27911-05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing Summer Vibes
+group-titleName="国际" ,法国Djing Summer Vibes
 http://www.djing.com/tv/s-27911-05-summer-vibes.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing Underground
+group-titleName="国际" ,法国Djing Underground
 http://www.djing.com/tv/u-27911-05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing现场直播
+group-titleName="国际" ,法国Djing现场直播
 https://www.djing.com/tv/28513-03.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djingibiza
+group-titleName="国际" ,法国Djingibiza
 https://www.djing.com/tv/d-28513-05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing夏日震撼直播
+group-titleName="国际" ,法国Djing夏日震撼直播
 https://www.djing.com/tv/s-28513-05-summer-vibes.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing唱卡拉OK
+group-titleName="国际" ,法国Djing唱卡拉OK
 https://www.djing.com/tv/k-28513-05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing电动摇滚直播
+group-titleName="国际" ,法国Djing电动摇滚直播
 https://www.djing.com/tv/s-28513-05-electro-rock.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing打碟法国直播
+group-titleName="国际" ,法国Djing打碟法国直播
 https://www.djing.com/tv/s-28513-05-french-touch.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing打碟地下直播
+group-titleName="国际" ,法国Djing打碟地下直播
 https://www.djing.com/tv/u-28513-05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing经典直播
+group-titleName="国际" ,法国Djing经典直播
 https://www.djing.com/tv/i-28513-05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing动画
+group-titleName="国际" ,法国Djing动画
 https://www.djing.com/tv/a-28513-05.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing舞曲
+group-titleName="国际" ,法国Djing舞曲
 https://www.djing.com/tv/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,法国Djing热门直播
+group-titleName="国际" ,法国Djing热门直播
 https://www.djing.com/tv/h-01-fta.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国Baden TV
+group-titleName="国际" ,德国Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国Deutsche Welle (Opt-2)
+group-titleName="国际" ,德国Deutsche Welle (Opt-2)
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国Deutsche Welle (Opt-3)
+group-titleName="国际" ,德国Deutsche Welle (Opt-3)
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国Isar TV
+group-titleName="国际" ,德国Isar TV
 http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国MDF.1
+group-titleName="国际" ,德国MDF.1
 http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国Munchen TV
+group-titleName="国际" ,德国Munchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国Noa 4 Norderstedt
+group-titleName="国际" ,德国Noa 4 Norderstedt
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国Noa 4 Hamburg
+group-titleName="国际" ,德国Noa 4 Hamburg
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国Oberpfalz TV
+group-titleName="国际" ,德国Oberpfalz TV
 http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国Offener Kanal Magdeburg
+group-titleName="国际" ,德国Offener Kanal Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国pop10
+group-titleName="国际" ,德国pop10
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国RFO
+group-titleName="国际" ,德国RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国TVA Ostbayern
+group-titleName="国际" ,德国TVA Ostbayern
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国TV Oberfranken
+group-titleName="国际" ,德国TV Oberfranken
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国TV Touring Schweinfurt
+group-titleName="国际" ,德国TV Touring Schweinfurt
 http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国QVC
+group-titleName="国际" ,德国QVC
 http://ios-stream.qvc.de/qvc.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国Deutsche Welle Latino | SD
+group-titleName="国际" ,德国Deutsche Welle Latino | SD
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国Augsburg TV
+group-titleName="国际" ,德国Augsburg TV
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,德国hr-fernsehen
+group-titleName="国际" ,德国hr-fernsehen
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙皇家马德里电视台Real Madrid TV | SD
+group-titleName="国际" ,西班牙皇家马德里电视台Real Madrid TV | SD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙皇家马德里电视台Real Madrid TV | SD
+group-titleName="国际" ,西班牙皇家马德里电视台Real Madrid TV | SD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙皇家马德里电视台Real Madrid TV | SD
+group-titleName="国际" ,西班牙皇家马德里电视台Real Madrid TV | SD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙穆尔西亚自治电视频道7 Murcia
+group-titleName="国际" ,西班牙穆尔西亚自治电视频道7 Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙13 TV
+group-titleName="国际" ,西班牙13 TV
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙Canaria SAT
+group-titleName="国际" ,西班牙Canaria SAT
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙Aliento Vision
+group-titleName="国际" ,西班牙Aliento Vision
 http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙Aliento Vision
+group-titleName="国际" ,西班牙Aliento Vision
 http://livestreamcdn.net:1935/AlientoSD/AlientoSD/chunklist_w544350465.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利布鲁内尔音乐台RadioBruno
+group-titleName="国际" ,意大利布鲁内尔音乐台RadioBruno
 http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Rai4 HD
+group-titleName="国际" ,意大利Rai4 HD
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利RaiMovie HD电影频道
+group-titleName="国际" ,意大利RaiMovie HD电影频道
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Rai Gulp HD儿童频道
+group-titleName="国际" ,意大利Rai Gulp HD儿童频道
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Sky Tg24 Italy
+group-titleName="国际" ,意大利Sky Tg24 Italy
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利DeeJay TV
+group-titleName="国际" ,意大利DeeJay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利La 7
+group-titleName="国际" ,意大利La 7
 http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Radio Azzurra
+group-titleName="国际" ,意大利Radio Azzurra
 http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Radio Capital TiVu
+group-titleName="国际" ,意大利Radio Capital TiVu
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Radio Iglesias
+group-titleName="国际" ,意大利Radio Iglesias
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Radio Italia TV
+group-titleName="国际" ,意大利Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Sudtirol TV
+group-titleName="国际" ,意大利Sudtirol TV
 http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利SuperTV
+group-titleName="国际" ,意大利SuperTV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利TeleArena
+group-titleName="国际" ,意大利TeleArena
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利teleMonteneve
+group-titleName="国际" ,意大利teleMonteneve
 http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利telePAVIA
+group-titleName="国际" ,意大利telePAVIA
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利TSN
+group-titleName="国际" ,意大利TSN
 http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利TVRS
+group-titleName="国际" ,意大利TVRS
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Video Calabria
+group-titleName="国际" ,意大利Video Calabria
 http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Alto Adige TV
+group-titleName="国际" ,意大利Alto Adige TV
 http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Canale 7
+group-titleName="国际" ,意大利Canale 7
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Canale 10
+group-titleName="国际" ,意大利Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Carina TV
+group-titleName="国际" ,意大利Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Cremona 1
+group-titleName="国际" ,意大利Cremona 1
 http://o1.senape.tv:1935/webtv_live/_definst_/MHQASAJMAM78/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利eTV Marche
+group-titleName="国际" ,意大利eTV Marche
 http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利m20 tv
+group-titleName="国际" ,意大利m20 tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利111 Centoundici TV音乐
+group-titleName="国际" ,意大利111 Centoundici TV音乐
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/index_150_av-p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Rai News 24
+group-titleName="国际" ,意大利Rai News 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Rai Premium
+group-titleName="国际" ,意大利Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Rai Yoyo
+group-titleName="国际" ,意大利Rai Yoyo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利教育电视频道UniNettuno University T
+group-titleName="国际" ,意大利教育电视频道UniNettuno University T
 http://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利Deejay TV音乐频道
+group-titleName="国际" ,意大利Deejay TV音乐频道
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利History Lab
+group-titleName="国际" ,意大利History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,意大利IRC Sport Italy
+group-titleName="国际" ,意大利IRC Sport Italy
 http://wms.shared.streamshow.it/irctv/mp4:irctv/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,波兰Stars TV
+group-titleName="国际" ,波兰Stars TV
 http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,波兰TV Torun
+group-titleName="国际" ,波兰TV Torun
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,波兰TV Trwam
+group-titleName="国际" ,波兰TV Trwam
 http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,匈牙利1 Music音乐频道
+group-titleName="国际" ,匈牙利1 Music音乐频道
 http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,匈牙利1 Music音乐频道
+group-titleName="国际" ,匈牙利1 Music音乐频道
 http://92.249.129.152/stream/1music.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,奥地利GoTV
+group-titleName="国际" ,奥地利GoTV
 http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,芬兰YLE TV 1
+group-titleName="国际" ,芬兰YLE TV 1
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,芬兰YLE TV 2
+group-titleName="国际" ,芬兰YLE TV 2
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,冰岛RUV
+group-titleName="国际" ,冰岛RUV
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,挪威Kanal 10
+group-titleName="国际" ,挪威Kanal 10
 http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,挪威Stortinget
+group-titleName="国际" ,挪威Stortinget
 http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,瑞典Kanal 10
+group-titleName="国际" ,瑞典Kanal 10
 http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,澳大利亚4BC Brisbane
+group-titleName="国际" ,澳大利亚4BC Brisbane
 http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,荷兰公共广播区域电视和广播电台Omroep Brabant
+group-titleName="国际" ,荷兰公共广播区域电视和广播电台Omroep Brabant
 https://d3slqp9xhts6qb.cloudfront.net/omroepbrabantTv/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,荷兰Omroep Ede
+group-titleName="国际" ,荷兰Omroep Ede
 http://ms2.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,丹麦博恩霍尔姆电视台TV2 Bornholm
+group-titleName="国际" ,丹麦博恩霍尔姆电视台TV2 Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,丹麦TV2 Lorry
+group-titleName="国际" ,丹麦TV2 Lorry
 http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,丹麦TV2 Fyn
+group-titleName="国际" ,丹麦TV2 Fyn
 http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,爱尔兰RTE News
+group-titleName="国际" ,爱尔兰RTE News
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,爱尔兰TG4
+group-titleName="国际" ,爱尔兰TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,瑞士Tele M1
+group-titleName="国际" ,瑞士Tele M1
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙PortalFoxMix Tv音乐台
+group-titleName="国际" ,西班牙PortalFoxMix Tv音乐台
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙PortalFoxMix Tv音乐台
+group-titleName="国际" ,西班牙PortalFoxMix Tv音乐台
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w611787622.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙中国环球电视网CGTN
+group-titleName="国际" ,西班牙中国环球电视网CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙3/24
+group-titleName="国际" ,西班牙3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙Canal Extremadura
+group-titleName="国际" ,西班牙Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙Levante TV
+group-titleName="国际" ,西班牙Levante TV
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙Navarra TV (Opt-2)
+group-titleName="国际" ,西班牙Navarra TV (Opt-2)
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙RTVCE
+group-titleName="国际" ,西班牙RTVCE
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙TeleSafor
+group-titleName="国际" ,西班牙TeleSafor
 http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙TV3 (Opt-1)
+group-titleName="国际" ,西班牙TV3 (Opt-1)
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙TV Galicia Europa
+group-titleName="国际" ,西班牙TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙Extrema Tv-Movies
+group-titleName="国际" ,西班牙Extrema Tv-Movies
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,西班牙Ranchenato
+group-titleName="国际" ,西班牙Ranchenato
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,新西兰Three
+group-titleName="国际" ,新西兰Three
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,比利时Radio Contact 102.2 FM Brusse
+group-titleName="国际" ,比利时Radio Contact 102.2 FM Brusse
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,比利时RTL-TVI
+group-titleName="国际" ,比利时RTL-TVI
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,阿拉伯CGTN
+group-titleName="国际" ,阿拉伯CGTN
 http://live.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,阿拉伯Deutsche Welle
+group-titleName="国际" ,阿拉伯Deutsche Welle
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,阿拉伯TRT
+group-titleName="国际" ,阿拉伯TRT
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,阿拉伯Al Hurra
+group-titleName="国际" ,阿拉伯Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,阿联酋Abu Dhabi Sports 2 HD (Opt-2)
+group-titleName="国际" ,阿联酋Abu Dhabi Sports 2 HD (Opt-2)
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,阿联酋Abu Dhabi Sports 2 HD (Opt-3)
+group-titleName="国际" ,阿联酋Abu Dhabi Sports 2 HD (Opt-3)
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,阿联酋Al Arabiya
+group-titleName="国际" ,阿联酋Al Arabiya
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,阿联酋Dubai One
+group-titleName="国际" ,阿联酋Dubai One
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,卡塔尔 Al Kass Sports 3
+group-titleName="国际" ,卡塔尔 Al Kass Sports 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,卡塔尔 Al Kass Sports 4
+group-titleName="国际" ,卡塔尔 Al Kass Sports 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,希腊Cannali TV
+group-titleName="国际" ,希腊Cannali TV
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,希腊Fox TV
+group-titleName="国际" ,希腊Fox TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,希腊Ionian Channel
+group-titleName="国际" ,希腊Ionian Channel
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,希腊Life Kids Network
+group-titleName="国际" ,希腊Life Kids Network
 http://live.streams.ovh:1935/LIFEHD/LIFEHD/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,巴西AllSports
+group-titleName="国际" ,巴西AllSports
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,巴西Rede Atividade
+group-titleName="国际" ,巴西Rede Atividade
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,乌克兰Lale kids’ TV
+group-titleName="国际" ,乌克兰Lale kids’ TV
 http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,乌克兰100% News
+group-titleName="国际" ,乌克兰100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,乌克兰M2-Ukraina音乐频道
+group-titleName="国际" ,乌克兰M2-Ukraina音乐频道
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,乌克兰VOTV
+group-titleName="国际" ,乌克兰VOTV
 http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,保加利亚旅游高清频道This is Bulgaria HD
+group-titleName="国际" ,保加利亚旅游高清频道This is Bulgaria HD
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Mirtv
+group-titleName="国际" ,俄罗斯Mirtv
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯HTM HD TV
+group-titleName="国际" ,俄罗斯HTM HD TV
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯HTM HD
+group-titleName="国际" ,俄罗斯HTM HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Новое Радио ТВ音乐电视频道
+group-titleName="国际" ,俄罗斯Новое Радио ТВ音乐电视频道
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯УКРАИНА OTV
+group-titleName="国际" ,俄罗斯УКРАИНА OTV
 http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Киноменю HD
+group-titleName="国际" ,俄罗斯Киноменю HD
 http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯RU TV HD
+group-titleName="国际" ,俄罗斯RU TV HD
 https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯ДОМ КИНО ПРЕМИУМ HD
+group-titleName="国际" ,俄罗斯ДОМ КИНО ПРЕМИУМ HD
 http://91.231.219.145:80/tv_dom_kino_premium_HD/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯СТС International
+group-titleName="国际" ,俄罗斯СТС International
 http://sc.id-tv.kz/STS_36_37.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Точка ТВ
+group-titleName="国际" ,俄罗斯Точка ТВ
 http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Astrakhan 24 (Opt-2)
+group-titleName="国际" ,俄罗斯Astrakhan 24 (Opt-2)
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Boutique TV
+group-titleName="国际" ,俄罗斯Boutique TV
 http://live-btq.cdnvideo.ru/btq/btq.sdp/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯CGTN
+group-titleName="国际" ,俄罗斯CGTN
 http://live.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Krasnaja Linija
+group-titleName="国际" ,俄罗斯Krasnaja Linija
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Mir
+group-titleName="国际" ,俄罗斯Mir
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Mir 24 (Opt-1)
+group-titleName="国际" ,俄罗斯Mir 24 (Opt-1)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Muz Sojuz
+group-titleName="国际" ,俄罗斯Muz Sojuz
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯MTVmix Ufa
+group-titleName="国际" ,俄罗斯MTVmix Ufa
 http://81.30.182.82:18092/hls/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯RBC (Opt-1)
+group-titleName="国际" ,俄罗斯RBC (Opt-1)
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯RBC (Opt-2)
+group-titleName="国际" ,俄罗斯RBC (Opt-2)
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯RBC (Opt-3)
+group-titleName="国际" ,俄罗斯RBC (Opt-3)
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Shanson TV (Opt-1)
+group-titleName="国际" ,俄罗斯Shanson TV (Opt-1)
 http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Shanson TV (Opt-2)
+group-titleName="国际" ,俄罗斯Shanson TV (Opt-2)
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Tivikom Ulan-Udje
+group-titleName="国际" ,俄罗斯Tivikom Ulan-Udje
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Tjumenskoe Vremja
+group-titleName="国际" ,俄罗斯Tjumenskoe Vremja
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯TopShop
+group-titleName="国际" ,俄罗斯TopShop
 http://tv-topshop.netrack.ru/hls/topshop.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯TRO Soyuz
+group-titleName="国际" ,俄罗斯TRO Soyuz
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,俄罗斯Ugra TV
+group-titleName="国际" ,俄罗斯Ugra TV
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,墨西哥MilenioTelevisión
+group-titleName="国际" ,墨西哥MilenioTelevisión
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,墨西哥Canal 10 Chiapas
+group-titleName="国际" ,墨西哥Canal 10 Chiapas
 http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,墨西哥Capital 21 Mexico City
+group-titleName="国际" ,墨西哥Capital 21 Mexico City
 http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,墨西哥Uno TV (VOD)
+group-titleName="国际" ,墨西哥Uno TV (VOD)
 http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,捷克JOJ Family
+group-titleName="国际" ,捷克JOJ Family
 http://nn2.joj.sk/hls/family-540.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,捷克Retro (Opt-1)
+group-titleName="国际" ,捷克Retro (Opt-1)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,斯洛伐克WAU
+group-titleName="国际" ,斯洛伐克WAU
 http://nn2.joj.sk/hls/wau-540.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,斯洛伐克Joj Plus
+group-titleName="国际" ,斯洛伐克Joj Plus
 http://nn2.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,阿根廷Canal 3 Pinamar
+group-titleName="国际" ,阿根廷Canal 3 Pinamar
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,阿根廷Radio TV Neuquen
+group-titleName="国际" ,阿根廷Radio TV Neuquen
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,白俄罗斯维捷布斯克Nashe TV
+group-titleName="国际" ,白俄罗斯维捷布斯克Nashe TV
 http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,科威特KUWAIT ONE
+group-titleName="国际" ,科威特KUWAIT ONE
 http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,印尼国家电视台TVRI indonesia
+group-titleName="国际" ,印尼国家电视台TVRI indonesia
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,阿尔巴尼亚TVSH Albania
+group-titleName="国际" ,阿尔巴尼亚TVSH Albania
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,拉脱维亚RETV
+group-titleName="国际" ,拉脱维亚RETV
 http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,拉脱维亚TV Net
+group-titleName="国际" ,拉脱维亚TV Net
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,厄瓜多尔Ecuavisa SD
+group-titleName="国际" ,厄瓜多尔Ecuavisa SD
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,秘鲁Antares TV
+group-titleName="国际" ,秘鲁Antares TV
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,秘鲁RBC TV
+group-titleName="国际" ,秘鲁RBC TV
 http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,哥斯达黎加 Telered
+group-titleName="国际" ,哥斯达黎加 Telered
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,哥斯达黎加 Telesur
+group-titleName="国际" ,哥斯达黎加 Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,罗马尼亚Cromtel TV
+group-titleName="国际" ,罗马尼亚Cromtel TV
 http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,罗马尼亚Iasi TV Life
+group-titleName="国际" ,罗马尼亚Iasi TV Life
 http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,罗马尼亚TV Kit
+group-titleName="国际" ,罗马尼亚TV Kit
 http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,摩尔多瓦Acasa TV
+group-titleName="国际" ,摩尔多瓦Acasa TV
 http://hls.protv.md/acasatv/acasatv.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,摩尔多瓦NTV
+group-titleName="国际" ,摩尔多瓦NTV
 http://93.115.137.166/hls/ntvm.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,摩尔多瓦Pro TV
+group-titleName="国际" ,摩尔多瓦Pro TV
 http://hls.protv.md/hls/protv.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,摩尔多瓦Publika TV
+group-titleName="国际" ,摩尔多瓦Publika TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,摩尔多瓦Tele M
+group-titleName="国际" ,摩尔多瓦Tele M
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,拉丁美洲Cuenca Vision
+group-titleName="国际" ,拉丁美洲Cuenca Vision
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,拉丁美洲La Mega Mundial
+group-titleName="国际" ,拉丁美洲La Mega Mundial
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,拉丁美洲TV Marti
+group-titleName="国际" ,拉丁美洲TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,阿尔巴尼亚Report-TV
+group-titleName="国际" ,阿尔巴尼亚Report-TV
 http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,塞尔维亚 Duga TV
+group-titleName="国际" ,塞尔维亚 Duga TV
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,波斯尼亚 777 TehnikaTV
+group-titleName="国际" ,波斯尼亚 777 TehnikaTV
 http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,波斯尼亚 Al Jazeera Balkans
+group-titleName="国际" ,波斯尼亚 Al Jazeera Balkans
 http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,波斯尼亚 Televizija 5
+group-titleName="国际" ,波斯尼亚 Televizija 5
 http://37.59.21.217:8809/live/tv5web.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,喀麦隆 Vision 4
+group-titleName="国际" ,喀麦隆 Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,塞浦路斯Sigma TV (Greek)
+group-titleName="国际" ,塞浦路斯Sigma TV (Greek)
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,以色列Knesset Channel
+group-titleName="国际" ,以色列Knesset Channel
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,黎巴嫩Al Manar
+group-titleName="国际" ,黎巴嫩Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,伊拉克 Sharqiya News
+group-titleName="国际" ,伊拉克 Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,摩洛哥Al Aoula International
+group-titleName="国际" ,摩洛哥Al Aoula International
 http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,摩洛哥Arryadia
+group-titleName="国际" ,摩洛哥Arryadia
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,摩洛哥Al Maghribia
+group-titleName="国际" ,摩洛哥Al Maghribia
 http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,加纳TV Africa (Ghana)
+group-titleName="国际" ,加纳TV Africa (Ghana)
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,伊朗BBC
+group-titleName="国际" ,伊朗BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,伊朗PBC Tapesh TV
+group-titleName="国际" ,伊朗PBC Tapesh TV
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,伊朗Radio Javan
+group-titleName="国际" ,伊朗Radio Javan
 http://198.98.181.244/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,伊朗Rangarang TV
+group-titleName="国际" ,伊朗Rangarang TV
 http://iptv.rangarang.us/live/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,巴基斯坦新闻台PTV News
+group-titleName="国际" ,巴基斯坦新闻台PTV News
 http://67.231.248.131:1935/live/PTVnews/player.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,巴基斯坦Eye 95 TV (US)
+group-titleName="国际" ,巴基斯坦Eye 95 TV (US)
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,巴基斯坦Lahore News
+group-titleName="国际" ,巴基斯坦Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,印度India TV
+group-titleName="国际" ,印度India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,印度电视台
+group-titleName="国际" ,印度电视台
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,印度彭博财经Bloomberg India
+group-titleName="国际" ,印度彭博财经Bloomberg India
 http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,印度ABP Asmita
+group-titleName="国际" ,印度ABP Asmita
 http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,印度DD News
+group-titleName="国际" ,印度DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,土耳其Turkia TRT MüZIK HD音乐频道
+group-titleName="国际" ,土耳其Turkia TRT MüZIK HD音乐频道
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,土耳其AKSU TV
+group-titleName="国际" ,土耳其AKSU TV
 http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,土耳其Cay TV
+group-titleName="国际" ,土耳其Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,土耳其CNN Turk
+group-titleName="国际" ,土耳其CNN Turk
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,土耳其Dream TV
+group-titleName="国际" ,土耳其Dream TV
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,土耳其Dreamturk TV
+group-titleName="国际" ,土耳其Dreamturk TV
 http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,土耳其Kanal D
+group-titleName="国际" ,土耳其Kanal D
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,土耳其Meclis TV
+group-titleName="国际" ,土耳其Meclis TV
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,土耳其TRT 1
+group-titleName="国际" ,土耳其TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,土耳其TRT Avaz
+group-titleName="国际" ,土耳其TRT Avaz
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,土耳其TRT Cocuk
+group-titleName="国际" ,土耳其TRT Cocuk
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,土耳其TRT Haber
+group-titleName="国际" ,土耳其TRT Haber
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,土耳其Kral TV音乐频道
+group-titleName="国际" ,土耳其Kral TV音乐频道
 http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,朝鲜中央电视台
+group-titleName="国际" ,朝鲜中央电视台
 http://tv.nknews.org/tvhls/stream.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,Radio Kanal HIT-R
+group-titleName="国际" ,Radio Kanal HIT-R
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,卫视卡式台
+group-titleName="国际" ,卫视卡式台
 http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,叙利亚ANN
+group-titleName="国际" ,叙利亚ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,KIX HD
+group-titleName="国际" ,KIX HD
 http://45.126.83.51/uq2663/h/h07/01.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,THRILL
+group-titleName="国际" ,THRILL
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,MY CINEMA
+group-titleName="国际" ,MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,CNN PORTUGAL
+group-titleName="国际" ,CNN PORTUGAL
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,CBN NEWS
+group-titleName="国际" ,CBN NEWS
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,CBS
+group-titleName="国际" ,CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,CBN
+group-titleName="国际" ,CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,CBC CANADA
+group-titleName="国际" ,CBC CANADA
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,泰国PBS
+group-titleName="国际" ,泰国PBS
 http://thaipbs-live.cdn.byteark.com/live-en/playlist_1080p/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,CGTN Documentary
+group-titleName="国际" ,CGTN Documentary
 https://live.cgtn.com/cctv-d.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,CGTN English
+group-titleName="国际" ,CGTN English
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,新加坡新传媒8频道
+group-titleName="国际" ,新加坡新传媒8频道
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="国际" ,CGTN DOCUMENTARY
+group-titleName="国际" ,CGTN DOCUMENTARY
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="凤凰" ,凤凰资讯
+group-titleName="凤凰" ,凤凰资讯
 http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="凤凰" ,凤凰卫视香港台
+group-titleName="凤凰" ,凤凰卫视香港台
 http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
-#EXTINF:-1 group-titleName="音乐" group-titleName="凤凰" ,凤凰卫视香港台
+group-titleName="凤凰" ,凤凰卫视香港台
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
-#EXTINF:-1 group-titleName="音乐" group-titleName="凤凰" ,凤凰卫视香港台
+group-titleName="凤凰" ,凤凰卫视香港台
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8#eyJIb3N0IjoiMTgzLjIwNy4yNDkuMzQiLCJVc2VyLUFnZW50IjoiRGFsdmlrXC8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgNi4wLjE7IE11TXUgQnVpbGRcL1Y0MTdJUikifQ==
-#EXTINF:-1 group-titleName="音乐" group-titleName="凤凰" ,凤凰卫视香港台
+group-titleName="凤凰" ,凤凰卫视香港台
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=4344
 
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,FTV-T型台
+group-titleName="时尚" ,FTV-T型台
 http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,FASHION FILMS
+group-titleName="时尚" ,FASHION FILMS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_films_adaptive.smil/media.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,FASHION FITNESS
+group-titleName="时尚" ,FASHION FITNESS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_fitness_adaptive.smil/media.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,FASHION MIDNITE
+group-titleName="时尚" ,FASHION MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,FASHION MODEL
+group-titleName="时尚" ,FASHION MODEL
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_top_models_adaptive.smil/media.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,FASHION PG13
+group-titleName="时尚" ,FASHION PG13
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,FASHION BRIDAL
+group-titleName="时尚" ,FASHION BRIDAL
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_bridal_adaptive.smil/media.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,FASHION MEN
+group-titleName="时尚" ,FASHION MEN
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/media.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,FASHION PARIS
+group-titleName="时尚" ,FASHION PARIS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/media.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,FASHION PG16
+group-titleName="时尚" ,FASHION PG16
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,FASHION WEEKS
+group-titleName="时尚" ,FASHION WEEKS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_weeks_adaptive.smil/media.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,FTV-巴黎
+group-titleName="时尚" ,FTV-巴黎
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,FTV-MIDNITE
+group-titleName="时尚" ,FTV-MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,WFC TV
+group-titleName="时尚" ,WFC TV
 http://wfc.bonus-tv.ru/cdn/wfcrus/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,WFC TV
+group-titleName="时尚" ,WFC TV
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,WFC HD
+group-titleName="时尚" ,WFC HD
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-titleName="音乐" group-titleName="时尚" ,ID Fashion TV [FHD]
+group-titleName="时尚" ,ID Fashion TV [FHD]
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 group-titleName="音乐" ,独立波音乐台IndieWave
