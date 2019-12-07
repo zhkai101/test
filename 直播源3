@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视",CCTV1
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
+,CCTV3
+http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/1.m3u8
+,CCTV4
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8
+,CCTV5
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/1.m3u8
+,CCTV8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/1.m3u8
+,CCTV10
+http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/1.m3u8
+,CCTV发现之旅
+http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
+,CCTV2HD
+http://hls-ott-zhibo.wasu.tv/live/196/index.m3u8
+,CCTV13
+http://hls-ott-zhibo.wasu.tv/live/189/index.m3u8
+,CCTV13
+http://hls-ott-zhibo.wasu.tv/live/197/index.m3u8
+,CCTV5体育+
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/1.m3u8
+,CCTV-7 HD
+http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/1.m3u8
+,CCTV-11 HD
+http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/1.m3u8
+#EXTINF:-1 group-title="央视11",CCTV5(移动线路)
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225904/3.m3u8
