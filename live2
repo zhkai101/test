@@ -2174,37 +2174,6 @@ https://ws4.streamhls.huya.com/backsrc/94525224-2460686034-10568566041753944064-
 #EXTINF:-1 group-title="轮播",犬夜叉
 http://aldirect.hls.huya.com/huyalive/29359996-2689639786-11551914918890438656-2847687572-10057-A-0-1_1200.m3u8?_alisec=c527379e4542eae03b6b19665c978c4f
 
-#EXTINF:-1 group-title="轮播",VISIT-XTV
-http://stream.visit-x.tv/vxtv/live/chunklist_w1769846509.m3u8
-#EXTINF:-1 group-title="轮播",VISIT-XTV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 group-title="轮播",VISIT-XTVHD
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="轮播",JasminTVSD
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="轮播",JasminTVHD
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="轮播",JasminTVHD
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w659662875.m3u8
-#EXTINF:-1 group-title="轮播",MiamiTV
-http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist_b2592000.m3u8
-#EXTINF:-1 group-title="轮播",MiamiTV
-http://hlsdpi-cdn-fr1.totalstream.net/dpilive/miamitv/mia/miamitv1/playlist.m3u8
-#EXTINF:-1 group-title="轮播",MiamiTV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 group-title="轮播",MiamiTV
-http://usaserver.miamitvchannel.com:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 group-title="轮播",MiamiTVHD
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w674207730_b2592000.m3u8
-#EXTINF:-1 group-title="轮播",ShemaleTubeTV1
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 group-title="轮播",ShemaleTubeTV2
-http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 group-title="轮播",Visit-xTV
-http://stream.visit-x.tv:1935/vxtv/live_720p/chunklist_w2095600845.m3u8
-#EXTINF:-1 group-title="轮播",JasminTV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w1855513383.m3u8
-
 #EXTINF:-1 group-title="其他",CIBN纪录片
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1 group-title="其他",荒野生存
